@@ -499,7 +499,7 @@
       "sortOrder": 50
     },
     {
-      "name": "明石 残り奇数ゲームで告知",
+      "name": "残り奇数ゲームで告知",
       "categoryTag": "明石チャレンジ告知",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -516,7 +516,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "明石 残り偶数ゲームで告知",
+      "name": "残り偶数ゲームで告知",
       "categoryTag": "明石チャレンジ告知",
       "diffFlag": "big",
       "countKind": "suggest",
