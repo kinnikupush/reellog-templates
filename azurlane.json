@@ -352,7 +352,7 @@
       "sortOrder": 30
     },
     {
-      "name": "キャラ紹介 ①エンタープライズ",
+      "name": "エンタープライズ",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -369,7 +369,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "キャラ紹介 ②ベルファスト",
+      "name": "ベルファスト",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -386,7 +386,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "キャラ紹介 ③反転エンタープライズ",
+      "name": "反転エンタープライズ",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -403,7 +403,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "キャラ紹介 ④反転ベルファスト",
+      "name": "反転ベルファスト",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -420,7 +420,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "キャラ紹介 ⑤瑞鶴",
+      "name": "瑞鶴",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -437,7 +437,7 @@
       "suggestBadgeLabel": "設定4・6示唆"
     },
     {
-      "name": "キャラ紹介 ⑥オイゲン",
+      "name": "オイゲン",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "big",
       "countKind": "suggest",
