@@ -352,7 +352,7 @@
       "sortOrder": 30
     },
     {
-      "name": "エンタープライズ",
+      "name": "ジャベリン→ラフィー→綾波→Z23→エンタープライズ",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -369,7 +369,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "ベルファスト",
+      "name": "ジャベリン→ラフィー→綾波→Z23→ベルファスト",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -386,7 +386,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "反転エンタープライズ",
+      "name": "エンタープライズ→Z23→綾波→ラフィー→ジャベリン",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -403,7 +403,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "反転ベルファスト",
+      "name": "ベルファスト→Z23→綾波→ラフィー→ジャベリン",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -420,7 +420,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "瑞鶴",
+      "name": "ジャベリン→ラフィー→綾波→Z23→瑞鶴",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -437,7 +437,7 @@
       "suggestBadgeLabel": "設定4・6示唆"
     },
     {
-      "name": "オイゲン",
+      "name": "ジャベリン→ラフィー→綾波→Z23→オイゲン",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "big",
       "countKind": "suggest",
