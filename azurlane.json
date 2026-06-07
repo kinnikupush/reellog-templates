@@ -365,8 +365,7 @@
       "prob6": 0.325,
       "displayMode": "percent",
       "sortOrder": 31,
-      "parentItemName": "キャラ紹介 確認回数",
-      "suggestBadgeLabel": "奇数設定示唆"
+      "parentItemName": "キャラ紹介 確認回数"
     },
     {
       "name": "ジャベリン→ラフィー→綾波→Z23→ベルファスト",
@@ -382,8 +381,7 @@
       "prob6": 0.488,
       "displayMode": "percent",
       "sortOrder": 32,
-      "parentItemName": "キャラ紹介 確認回数",
-      "suggestBadgeLabel": "偶数設定示唆"
+      "parentItemName": "キャラ紹介 確認回数"
     },
     {
       "name": "エンタープライズ→Z23→綾波→ラフィー→ジャベリン",
