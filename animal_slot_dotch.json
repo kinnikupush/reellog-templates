@@ -333,7 +333,7 @@
       "sortOrder": 29
     },
     {
-      "name": "奇数マスにチップ3枚",
+      "name": "13〜25の奇数マスにチップ3枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -349,7 +349,7 @@
       "suggestBadgeLabel": "奇数設定示唆（弱）"
     },
     {
-      "name": "偶数マスにチップ3枚",
+      "name": "14〜24の偶数マスにチップ3枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -365,7 +365,7 @@
       "suggestBadgeLabel": "偶数設定示唆（弱）"
     },
     {
-      "name": "奇数マスにチップ5枚",
+      "name": "13〜25の奇数マスにチップ5枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -381,7 +381,7 @@
       "suggestBadgeLabel": "奇数設定示唆（強）"
     },
     {
-      "name": "偶数マスにチップ5枚",
+      "name": "14〜24の偶数マスにチップ5枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
