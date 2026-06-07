@@ -397,7 +397,7 @@
       "suggestBadgeLabel": "偶数設定示唆（強）"
     },
     {
-      "name": "2nd12と♦赤マス",
+      "name": "2nd12と赤マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -413,7 +413,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "2nd12と◆黒マス",
+      "name": "2nd12と黒マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
