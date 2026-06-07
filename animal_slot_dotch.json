@@ -413,7 +413,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "2nd12と♦黒マス",
+      "name": "2nd12と◆黒マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
