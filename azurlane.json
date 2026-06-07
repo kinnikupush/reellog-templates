@@ -208,8 +208,8 @@
     {
       "name": "全員集合",
       "categoryTag": "終了画面",
-      "diffFlag": "none",
-      "countKind": "count",
+      "diffFlag": "small",
+      "countKind": "suggest",
       "reverseMode": false,
       "confirmKind": "2以上",
       "prob1": 0.0001,
@@ -219,13 +219,14 @@
       "prob5": 0.03,
       "prob6": 0.03,
       "displayMode": "percent",
-      "sortOrder": 15
+      "sortOrder": 15,
+      "parentItemName": "確認回数"
     },
     {
       "name": "加賀＆赤城",
       "categoryTag": "終了画面",
-      "diffFlag": "none",
-      "countKind": "count",
+      "diffFlag": "small",
+      "countKind": "suggest",
       "reverseMode": false,
       "confirmKind": "4以上",
       "prob1": 0.0001,
@@ -235,13 +236,14 @@
       "prob5": 0.002,
       "prob6": 0.003,
       "displayMode": "percent",
-      "sortOrder": 16
+      "sortOrder": 16,
+      "parentItemName": "確認回数"
     },
     {
       "name": "パーティ",
       "categoryTag": "終了画面",
-      "diffFlag": "none",
-      "countKind": "count",
+      "diffFlag": "small",
+      "countKind": "suggest",
       "reverseMode": false,
       "confirmKind": "6",
       "prob1": 0.0001,
@@ -251,7 +253,8 @@
       "prob5": 0.0001,
       "prob6": 0.001,
       "displayMode": "percent",
-      "sortOrder": 17
+      "sortOrder": 17,
+      "parentItemName": "確認回数"
     },
     {
       "name": "ブロンズ",
