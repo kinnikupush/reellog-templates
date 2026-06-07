@@ -31,7 +31,7 @@
       "sortOrder": 0
     },
     {
-      "name": "通常時ボーナス初当り",
+      "name": "ボーナス",
       "categoryTag": "ボーナス",
       "diffFlag": "small",
       "countKind": "count",
@@ -46,7 +46,7 @@
       "sortOrder": 1
     },
     {
-      "name": "通常時の青7ボーナス",
+      "name": "青7ボーナス",
       "categoryTag": "ボーナス",
       "diffFlag": "big",
       "countKind": "count",
