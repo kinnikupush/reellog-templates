@@ -123,7 +123,7 @@
       "autoSumSourceNames": "共通ベル,チェリー,スイカ"
     },
     {
-      "name": "確認回数",
+      "name": "終了画面 確認回数",
       "categoryTag": "終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -151,7 +151,7 @@
       "prob6": 0.287,
       "displayMode": "percent",
       "sortOrder": 11,
-      "parentItemName": "確認回数",
+      "parentItemName": "終了画面 確認回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -168,7 +168,7 @@
       "prob6": 0.43,
       "displayMode": "percent",
       "sortOrder": 12,
-      "parentItemName": "確認回数",
+      "parentItemName": "終了画面 確認回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -185,7 +185,7 @@
       "prob6": 0.213,
       "displayMode": "percent",
       "sortOrder": 13,
-      "parentItemName": "確認回数",
+      "parentItemName": "終了画面 確認回数",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -202,7 +202,7 @@
       "prob6": 0.036,
       "displayMode": "percent",
       "sortOrder": 14,
-      "parentItemName": "確認回数",
+      "parentItemName": "終了画面 確認回数",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -220,7 +220,7 @@
       "prob6": 0.03,
       "displayMode": "percent",
       "sortOrder": 15,
-      "parentItemName": "確認回数"
+      "parentItemName": "終了画面 確認回数"
     },
     {
       "name": "加賀＆赤城",
@@ -237,7 +237,7 @@
       "prob6": 0.003,
       "displayMode": "percent",
       "sortOrder": 16,
-      "parentItemName": "確認回数"
+      "parentItemName": "終了画面 確認回数"
     },
     {
       "name": "パーティ",
@@ -254,7 +254,7 @@
       "prob6": 0.001,
       "displayMode": "percent",
       "sortOrder": 17,
-      "parentItemName": "確認回数"
+      "parentItemName": "終了画面 確認回数"
     },
     {
       "name": "ブロンズ",
@@ -337,7 +337,7 @@
       "sortOrder": 24
     },
     {
-      "name": "加賀バトル キャラ紹介 確認回数",
+      "name": "キャラ紹介 確認回数",
       "categoryTag": "加賀バトルキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -365,7 +365,7 @@
       "prob6": 0.325,
       "displayMode": "percent",
       "sortOrder": 31,
-      "parentItemName": "加賀バトル キャラ紹介 確認回数",
+      "parentItemName": "キャラ紹介 確認回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -382,7 +382,7 @@
       "prob6": 0.488,
       "displayMode": "percent",
       "sortOrder": 32,
-      "parentItemName": "加賀バトル キャラ紹介 確認回数",
+      "parentItemName": "キャラ紹介 確認回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -399,7 +399,7 @@
       "prob6": 0.05,
       "displayMode": "percent",
       "sortOrder": 33,
-      "parentItemName": "加賀バトル キャラ紹介 確認回数",
+      "parentItemName": "キャラ紹介 確認回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -416,7 +416,7 @@
       "prob6": 0.1,
       "displayMode": "percent",
       "sortOrder": 34,
-      "parentItemName": "加賀バトル キャラ紹介 確認回数",
+      "parentItemName": "キャラ紹介 確認回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -433,7 +433,7 @@
       "prob6": 0.019,
       "displayMode": "percent",
       "sortOrder": 35,
-      "parentItemName": "加賀バトル キャラ紹介 確認回数",
+      "parentItemName": "キャラ紹介 確認回数",
       "suggestBadgeLabel": "設定4・6示唆"
     },
     {
@@ -450,7 +450,7 @@
       "prob6": 0.019,
       "displayMode": "percent",
       "sortOrder": 36,
-      "parentItemName": "加賀バトル キャラ紹介 確認回数",
+      "parentItemName": "キャラ紹介 確認回数",
       "suggestBadgeLabel": "設定5・6示唆"
     },
     {
