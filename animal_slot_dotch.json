@@ -93,7 +93,7 @@
       "sortOrder": 4
     },
     {
-      "name": "REGキャラ ホッキョクグマ",
+      "name": "ホッキョクグマ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -109,7 +109,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "REGキャラ ネコ",
+      "name": "ネコ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -125,7 +125,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "REGキャラ ペンギン",
+      "name": "ペンギン",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -141,7 +141,7 @@
       "sortOrder": 13
     },
     {
-      "name": "REGキャラ ウサギ",
+      "name": "ウサギ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -157,7 +157,7 @@
       "sortOrder": 14
     },
     {
-      "name": "REGキャラ ライオン",
+      "name": "ライオン",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -173,7 +173,7 @@
       "sortOrder": 15
     },
     {
-      "name": "REGキャラ ブルドッグ",
+      "name": "ブルドッグ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -189,7 +189,7 @@
       "sortOrder": 16
     },
     {
-      "name": "REGキャラ ジャグラー",
+      "name": "ジャグラー",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -205,7 +205,7 @@
       "sortOrder": 17
     },
     {
-      "name": "ST終 青チップのみ",
+      "name": "青チップのみ",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "suggest",
@@ -220,7 +220,7 @@
       "sortOrder": 21
     },
     {
-      "name": "ST終 赤チップのみ",
+      "name": "赤チップのみ",
       "categoryTag": "ST終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -236,7 +236,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "ST終 リラックスシロクマ",
+      "name": "リラックスシロクマ",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -252,7 +252,7 @@
       "sortOrder": 23
     },
     {
-      "name": "ST終 老忍",
+      "name": "老忍",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -268,7 +268,7 @@
       "sortOrder": 24
     },
     {
-      "name": "ST終 トップスター",
+      "name": "トップスター",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -284,7 +284,7 @@
       "sortOrder": 25
     },
     {
-      "name": "ST終 格闘ペンギン",
+      "name": "格闘ペンギン",
       "categoryTag": "ST終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -300,7 +300,7 @@
       "suggestBadgeLabel": "設定2・5・6示唆"
     },
     {
-      "name": "ST終 巫女ウサギ",
+      "name": "巫女ウサギ",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -316,7 +316,7 @@
       "sortOrder": 27
     },
     {
-      "name": "ST終 有名司会犬",
+      "name": "有名司会犬",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -332,7 +332,7 @@
       "sortOrder": 28
     },
     {
-      "name": "ST終 レジェンド舞妓",
+      "name": "レジェンド舞妓",
       "categoryTag": "ST終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -348,7 +348,7 @@
       "sortOrder": 29
     },
     {
-      "name": "ジャングル チップなし",
+      "name": "チップなし",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "suggest",
@@ -363,7 +363,7 @@
       "sortOrder": 31
     },
     {
-      "name": "ジャングル 奇数マスにチップ3枚",
+      "name": "奇数マスにチップ3枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -379,7 +379,7 @@
       "suggestBadgeLabel": "奇数設定示唆（弱）"
     },
     {
-      "name": "ジャングル 偶数マスにチップ3枚",
+      "name": "偶数マスにチップ3枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -395,7 +395,7 @@
       "suggestBadgeLabel": "偶数設定示唆（弱）"
     },
     {
-      "name": "ジャングル 奇数マスにチップ5枚",
+      "name": "奇数マスにチップ5枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -411,7 +411,7 @@
       "suggestBadgeLabel": "奇数設定示唆（強）"
     },
     {
-      "name": "ジャングル 偶数マスにチップ5枚",
+      "name": "偶数マスにチップ5枚",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -427,7 +427,7 @@
       "suggestBadgeLabel": "偶数設定示唆（強）"
     },
     {
-      "name": "ジャングル 2nd12と♦赤マス",
+      "name": "2nd12と♦赤マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -443,7 +443,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "ジャングル 2nd12と♦黒マス",
+      "name": "2nd12と♦黒マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -459,7 +459,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "ジャングル 1・4・7マス",
+      "name": "1・4・7マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -475,7 +475,7 @@
       "sortOrder": 38
     },
     {
-      "name": "ジャングル 2・4・7マス",
+      "name": "2・4・7マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -491,7 +491,7 @@
       "sortOrder": 39
     },
     {
-      "name": "ジャングル 2・4・6マス",
+      "name": "2・4・6マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -507,7 +507,7 @@
       "sortOrder": 40
     },
     {
-      "name": "ジャングル 2・5・6マス",
+      "name": "2・5・6マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -523,7 +523,7 @@
       "suggestBadgeLabel": "設定2・5・6示唆"
     },
     {
-      "name": "ジャングル 4・5・6マス",
+      "name": "4・5・6マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -539,7 +539,7 @@
       "sortOrder": 42
     },
     {
-      "name": "ジャングル 5・6マス",
+      "name": "5・6マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -555,7 +555,7 @@
       "sortOrder": 43
     },
     {
-      "name": "ジャングル 6マス",
+      "name": "6マス",
       "categoryTag": "ジャングルボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
