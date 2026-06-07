@@ -205,21 +205,6 @@
       "sortOrder": 17
     },
     {
-      "name": "青チップのみ",
-      "categoryTag": "ST終了画面",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.5,
-      "prob2": 0.46,
-      "prob3": 0.42,
-      "prob4": 0.36,
-      "prob5": 0.3,
-      "prob6": 0.24,
-      "displayMode": "percent",
-      "sortOrder": 21
-    },
-    {
       "name": "赤チップのみ",
       "categoryTag": "ST終了画面",
       "diffFlag": "medium",
@@ -346,21 +331,6 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 29
-    },
-    {
-      "name": "チップなし",
-      "categoryTag": "ジャングルボーナス終了画面",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.4,
-      "prob2": 0.36,
-      "prob3": 0.32,
-      "prob4": 0.26,
-      "prob5": 0.22,
-      "prob6": 0.16,
-      "displayMode": "percent",
-      "sortOrder": 31
     },
     {
       "name": "奇数マスにチップ3枚",
