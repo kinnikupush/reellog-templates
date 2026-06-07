@@ -138,7 +138,7 @@
       "sortOrder": 10
     },
     {
-      "name": "①エンタープライズ",
+      "name": "エンタープライズ",
       "categoryTag": "終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -155,7 +155,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "②ベルファスト",
+      "name": "ベルファスト",
       "categoryTag": "終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -172,7 +172,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "③エンタープライズ＆ベルファスト",
+      "name": "エンタープライズ＆ベルファスト",
       "categoryTag": "終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -189,7 +189,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "④赤城",
+      "name": "赤城",
       "categoryTag": "終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -206,7 +206,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "⑤全員集合",
+      "name": "全員集合",
       "categoryTag": "終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -222,7 +222,7 @@
       "sortOrder": 15
     },
     {
-      "name": "⑥加賀＆赤城",
+      "name": "加賀＆赤城",
       "categoryTag": "終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -238,7 +238,7 @@
       "sortOrder": 16
     },
     {
-      "name": "⑦パーティ",
+      "name": "パーティ",
       "categoryTag": "終了画面",
       "diffFlag": "none",
       "countKind": "count",
