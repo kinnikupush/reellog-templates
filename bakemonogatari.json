@@ -72,12 +72,13 @@
       "prob5": 0.175,
       "prob6": 0.2,
       "displayMode": "percent",
-      "sortOrder": 20
+      "sortOrder": 21,
+      "parentItemName": "200G到達回数"
     },
     {
       "name": "300G到達時 CZ当選",
       "categoryTag": "規定G数CZ",
-      "diffFlag": "none",
+      "diffFlag": "small",
       "countKind": "suggest",
       "reverseMode": false,
       "prob1": 0.4,
@@ -87,7 +88,8 @@
       "prob5": 0.475,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 21
+      "sortOrder": 23,
+      "parentItemName": "300G到達回数"
     },
     {
       "name": "弱チェリー→AT直撃",
@@ -375,6 +377,36 @@
       "displayMode": "denominator",
       "sortOrder": 74,
       "confirmKind": "6"
+    },
+    {
+      "name": "200G到達回数",
+      "categoryTag": "規定G数CZ",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 20
+    },
+    {
+      "name": "300G到達回数",
+      "categoryTag": "規定G数CZ",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 22
     }
   ]
 }
