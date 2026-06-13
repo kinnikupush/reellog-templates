@@ -204,7 +204,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "立ち絵",
+      "name": "ギルガメッシュ立ち絵",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -236,7 +236,7 @@
       "sortOrder": 35
     },
     {
-      "name": "見返り",
+      "name": "ギルガメッシュ見返り",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -252,7 +252,7 @@
       "sortOrder": 36
     },
     {
-      "name": "玉座",
+      "name": "ギルガメッシュ玉座",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
