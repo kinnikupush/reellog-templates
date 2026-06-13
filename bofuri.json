@@ -574,6 +574,23 @@
       "sortOrder": 6,
       "parentItemName": "ヒドラ目CZ当選回数",
       "suggestBadgeLabel": "高設定示唆"
+    },
+    {
+      "name": "即CZ",
+      "categoryTag": "初当り後即CZ",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.025,
+      "prob2": 0.05,
+      "prob3": 0.054,
+      "prob4": 0.079,
+      "prob5": 0.096,
+      "prob6": 0.104,
+      "displayMode": "percent",
+      "sortOrder": 7,
+      "parentItemName": "ボーナス初当たり",
+      "suggestBadgeLabel": "高設定示唆"
     }
   ]
 }
