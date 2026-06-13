@@ -60,22 +60,6 @@
       "sortOrder": 10
     },
     {
-      "name": "ボール2個",
-      "categoryTag": "ステーションチェンジ",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.281,
-      "prob2": 0.281,
-      "prob3": 0.281,
-      "prob4": 0.281,
-      "prob5": 0.281,
-      "prob6": 0.281,
-      "displayMode": "percent",
-      "sortOrder": 11,
-      "parentItemName": "ステーションチェンジ回数"
-    },
-    {
       "name": "ボール3個",
       "categoryTag": "ステーションチェンジ",
       "diffFlag": "small",
