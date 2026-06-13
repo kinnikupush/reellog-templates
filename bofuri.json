@@ -542,6 +542,38 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 64
+    },
+    {
+      "name": "ヒドラ目CZ当選回数",
+      "categoryTag": "ヒドラ目CZ振り分け",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 5
+    },
+    {
+      "name": "EPBB",
+      "categoryTag": "ヒドラ目CZ振り分け",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.017,
+      "prob2": 0.017,
+      "prob3": 0.021,
+      "prob4": 0.033,
+      "prob5": 0.042,
+      "prob6": 0.046,
+      "displayMode": "percent",
+      "sortOrder": 6,
+      "parentItemName": "ヒドラ目CZ当選回数",
+      "suggestBadgeLabel": "高設定示唆"
     }
   ]
 }
