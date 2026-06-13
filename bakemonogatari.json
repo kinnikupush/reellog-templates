@@ -423,6 +423,54 @@
       "prob6": 0.001,
       "displayMode": "denominator",
       "sortOrder": 30
+    },
+    {
+      "name": "174枚突破",
+      "categoryTag": "獲得枚数表示",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "confirmKind": "2以上",
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
+      "displayMode": "denominator",
+      "sortOrder": 80
+    },
+    {
+      "name": "543枚",
+      "categoryTag": "獲得枚数表示",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "confirmKind": "3以上",
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
+      "displayMode": "denominator",
+      "sortOrder": 81
+    },
+    {
+      "name": "331枚",
+      "categoryTag": "獲得枚数表示",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "confirmKind": "6",
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
+      "displayMode": "denominator",
+      "sortOrder": 82
     }
   ]
 }
