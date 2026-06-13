@@ -369,7 +369,7 @@
       "sortOrder": 44
     },
     {
-      "name": "奇数弱 (楽しませろ)",
+      "name": "楽しませろ",
       "categoryTag": "エンディングボイス",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -385,7 +385,7 @@
       "suggestBadgeLabel": "奇数設定示唆（弱）"
     },
     {
-      "name": "偶数弱 (突き進むか)",
+      "name": "突き進むか",
       "categoryTag": "エンディングボイス",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -401,7 +401,7 @@
       "suggestBadgeLabel": "偶数設定示唆（弱）"
     },
     {
-      "name": "奇数中 (超えて行け)",
+      "name": "超えて行け",
       "categoryTag": "エンディングボイス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -417,7 +417,7 @@
       "suggestBadgeLabel": "奇数設定示唆（中）"
     },
     {
-      "name": "偶数強 (見届けてやろう)",
+      "name": "見届けてやろう",
       "categoryTag": "エンディングボイス",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -433,7 +433,7 @@
       "suggestBadgeLabel": "偶数設定示唆（強）"
     },
     {
-      "name": "奇数強 (人の領域)",
+      "name": "人の領域",
       "categoryTag": "エンディングボイス",
       "diffFlag": "big",
       "countKind": "suggest",
