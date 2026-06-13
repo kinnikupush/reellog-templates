@@ -15,7 +15,7 @@
   },
   "items": [
     {
-      "name": "AT初当たり",
+      "name": "AT",
       "categoryTag": "AT/ART",
       "diffFlag": "small",
       "countKind": "count",
@@ -42,11 +42,11 @@
       "prob5": 0.013369,
       "prob6": 0.014306,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 2
     },
     {
       "name": "AT中ボーナス",
-      "categoryTag": "AT/ART",
+      "categoryTag": "ボーナス",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -57,7 +57,7 @@
       "prob5": 0.000459,
       "prob6": 0.000516,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 1
     },
     {
       "name": "200G到達時 CZ当選",
