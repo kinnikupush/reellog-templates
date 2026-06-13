@@ -16,7 +16,7 @@
   },
   "items": [
     {
-      "name": "BB確率",
+      "name": "BB",
       "categoryTag": "ボーナス",
       "diffFlag": "big",
       "countKind": "count",
@@ -31,7 +31,7 @@
       "sortOrder": 0
     },
     {
-      "name": "RB確率",
+      "name": "RB",
       "categoryTag": "ボーナス",
       "diffFlag": "small",
       "countKind": "count",
@@ -60,7 +60,7 @@
       "displayMode": "denominator",
       "sortOrder": 2,
       "isAutoSum": true,
-      "autoSumSourceNames": "BB確率,RB確率"
+      "autoSumSourceNames": "BB,RB"
     },
     {
       "name": "チェリー",

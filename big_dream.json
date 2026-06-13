@@ -16,8 +16,8 @@
   },
   "items": [
     {
-      "name": "CZ確率",
-      "categoryTag": "AT",
+      "name": "CZ",
+      "categoryTag": "CZ",
       "diffFlag": "small",
       "countKind": "count",
       "reverseMode": false,
@@ -28,10 +28,10 @@
       "prob5": 0.003212,
       "prob6": 0.003296,
       "displayMode": "denominator",
-      "sortOrder": 0
+      "sortOrder": 1
     },
     {
-      "name": "AT確率",
+      "name": "AT",
       "categoryTag": "AT",
       "diffFlag": "big",
       "countKind": "count",
@@ -43,7 +43,7 @@
       "prob5": 0.001815,
       "prob6": 0.001865,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 0
     },
     {
       "name": "ステーションチェンジ回数",
