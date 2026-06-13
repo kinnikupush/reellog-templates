@@ -104,7 +104,8 @@
       "prob5": 0.029,
       "prob6": 0.038,
       "displayMode": "percent",
-      "sortOrder": 30
+      "sortOrder": 31,
+      "parentItemName": "弱チェリー"
     },
     {
       "name": "1枚絵",
@@ -407,6 +408,21 @@
       "prob6": 0.001,
       "displayMode": "denominator",
       "sortOrder": 22
+    },
+    {
+      "name": "弱チェリー",
+      "categoryTag": "AT直撃",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 30
     }
   ]
 }
