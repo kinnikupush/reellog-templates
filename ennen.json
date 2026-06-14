@@ -446,6 +446,38 @@
       "prob6": 0.001,
       "displayMode": "denominator",
       "sortOrder": 11
+    },
+    {
+      "name": "強チェリー回数",
+      "categoryTag": "強チェリー",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 5
+    },
+    {
+      "name": "十字目変換",
+      "categoryTag": "強チェリー",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.03,
+      "prob2": 0.04,
+      "prob3": 0.05,
+      "prob4": 0.06,
+      "prob5": 0.07,
+      "prob6": 0.08,
+      "displayMode": "percent",
+      "sortOrder": 6,
+      "parentItemName": "強チェリー回数",
+      "suggestBadgeLabel": "高設定示唆"
     }
   ]
 }
