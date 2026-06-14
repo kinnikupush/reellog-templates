@@ -461,8 +461,7 @@
       "prob6": 0.08,
       "displayMode": "percent",
       "sortOrder": 2,
-      "parentItemName": "ボーナス",
-      "suggestBadgeLabel": "高設定示唆"
+      "parentItemName": "ボーナス"
     }
   ]
 }
