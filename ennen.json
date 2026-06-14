@@ -46,7 +46,7 @@
       "sortOrder": 1
     },
     {
-      "name": "アドラバースト出現率",
+      "name": "アドラバースト",
       "categoryTag": "上位AT",
       "diffFlag": "big",
       "countKind": "count",
