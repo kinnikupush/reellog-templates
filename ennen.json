@@ -17,7 +17,7 @@
   "items": [
     {
       "name": "ボーナス",
-      "categoryTag": "ボーナス/炎炎激闘/初当たり",
+      "categoryTag": "ボーナス/炎炎激闘",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
@@ -32,7 +32,7 @@
     },
     {
       "name": "炎炎激闘",
-      "categoryTag": "ボーナス/炎炎激闘/初当たり",
+      "categoryTag": "ボーナス/炎炎激闘",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
@@ -44,21 +44,6 @@
       "prob6": 0.001745,
       "displayMode": "denominator",
       "sortOrder": 1
-    },
-    {
-      "name": "初当たり",
-      "categoryTag": "ボーナス/炎炎激闘/初当たり",
-      "diffFlag": "big",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.005076,
-      "prob2": 0.005155,
-      "prob3": 0.005325,
-      "prob4": 0.005495,
-      "prob5": 0.00578,
-      "prob6": 0.005917,
-      "displayMode": "denominator",
-      "sortOrder": 2
     },
     {
       "name": "アドラバースト出現率",
