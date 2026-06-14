@@ -448,23 +448,8 @@
       "sortOrder": 11
     },
     {
-      "name": "小Vベル回数",
-      "categoryTag": "十字目変換",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 5
-    },
-    {
       "name": "十字目変換",
-      "categoryTag": "十字目変換",
+      "categoryTag": "ボーナス/炎炎激闘",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -475,8 +460,8 @@
       "prob5": 0.07,
       "prob6": 0.08,
       "displayMode": "percent",
-      "sortOrder": 6,
-      "parentItemName": "小Vベル回数",
+      "sortOrder": 2,
+      "parentItemName": "ボーナス",
       "suggestBadgeLabel": "高設定示唆"
     }
   ]
