@@ -448,8 +448,8 @@
       "sortOrder": 11
     },
     {
-      "name": "強チェリー回数",
-      "categoryTag": "強チェリー",
+      "name": "小Vベル回数",
+      "categoryTag": "十字目変換",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -464,7 +464,7 @@
     },
     {
       "name": "十字目変換",
-      "categoryTag": "強チェリー",
+      "categoryTag": "十字目変換",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -476,7 +476,7 @@
       "prob6": 0.08,
       "displayMode": "percent",
       "sortOrder": 6,
-      "parentItemName": "強チェリー回数",
+      "parentItemName": "小Vベル回数",
       "suggestBadgeLabel": "高設定示唆"
     }
   ]
