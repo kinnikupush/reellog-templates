@@ -47,7 +47,7 @@
     },
     {
       "name": "アドラバースト出現率",
-      "categoryTag": "AT",
+      "categoryTag": "上位AT",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
