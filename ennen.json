@@ -61,7 +61,7 @@
       "sortOrder": 3
     },
     {
-      "name": "伝導者①",
+      "name": "ジョヴァンニ→アロー→アサルト→フレイル→ヨナ",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -78,7 +78,7 @@
       "parentItemName": "REGキャラ紹介 確認回数"
     },
     {
-      "name": "第8②",
+      "name": "森羅日下部→ヴィクトル→ヴァルカン→アイリス→秋樽",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -95,7 +95,7 @@
       "parentItemName": "REGキャラ紹介 確認回数"
     },
     {
-      "name": "アイリス②",
+      "name": "アイリス→秋樽→まもるくん→プリンセス火華→レオナルド",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -111,7 +111,7 @@
       "sortOrder": 14
     },
     {
-      "name": "アイリス③",
+      "name": "アイリス→秋樽→ハラン→まもるくん→レオナルド",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -127,7 +127,7 @@
       "sortOrder": 15
     },
     {
-      "name": "アイリス④",
+      "name": "アイリス→秋樽→ハラン→プリンセス火華→まもるくん",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -143,7 +143,7 @@
       "sortOrder": 16
     },
     {
-      "name": "アイリス①",
+      "name": "アイリス→まもるくん→ハラン→プリンセス火華→レオナルド",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -159,7 +159,7 @@
       "sortOrder": 17
     },
     {
-      "name": "第8③",
+      "name": "森羅日下部→アーサー→環古達→茉希→新門紅丸",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -175,7 +175,7 @@
       "sortOrder": 18
     },
     {
-      "name": "大隊長",
+      "name": "ジョヴァンニ→秋樽→プリンセス火華→レオナルド→新門紅丸",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -191,7 +191,7 @@
       "sortOrder": 19
     },
     {
-      "name": "伝導者②",
+      "name": "ジョヴァンニ→アロー→アサルト→フレイル→ショウ",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -207,7 +207,7 @@
       "sortOrder": 20
     },
     {
-      "name": "アイリス⑤",
+      "name": "アイリス→秋樽→ハラン→プリンセス火華→レオナルド",
       "categoryTag": "REGキャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
