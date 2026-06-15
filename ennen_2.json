@@ -124,7 +124,7 @@
       "sortOrder": 19
     },
     {
-      "name": "第8② (シンラ・リヒト・ヴァルカン・アイリス・オウビ)",
+      "name": "シンラ→リヒト→ヴァルカン→アイリス→オウビ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -141,7 +141,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "第8③ (シンラ・アーサー・タマキ・マキ・紅丸)",
+      "name": "シンラ→アーサー→タマキ→マキ→紅丸",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -157,7 +157,7 @@
       "confirmKind": "4以上"
     },
     {
-      "name": "第8④ (シンラ・リヒト・ヴァルカン・アイリス・シンラ)",
+      "name": "シンラ→リヒト→ヴァルカン→アイリス→シンラ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -173,7 +173,7 @@
       "confirmKind": "6"
     },
     {
-      "name": "伝導者① (ジョヴァンニ・カロン・ハウメア・フレイル・インカ)",
+      "name": "ジョヴァンニ→カロン→ハウメア→フレイル→インカ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -190,7 +190,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "伝導者② (ジョヴァンニ・カロン・ハウメア・フレイル・オロチ)",
+      "name": "ジョヴァンニ→カロン→ハウメア→フレイル→オロチ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -207,7 +207,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "伝導者③ (ジョヴァンニ・カロン・ハウメア・フレイル・リツ)",
+      "name": "ジョヴァンニ→カロン→ハウメア→フレイル→リツ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -224,7 +224,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "伝導者④ (ジョヴァンニ・カロン・ハウメア・フレイル・ショウ)",
+      "name": "ジョヴァンニ→カロン→ハウメア→フレイル→ショウ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -240,7 +240,7 @@
       "confirmKind": "5以上"
     },
     {
-      "name": "アイリス① (まもるくん・オウビ・インカ・アーグ・バーンズ)",
+      "name": "まもるくん→オウビ→インカ→アーグ→バーンズ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -256,7 +256,7 @@
       "confirmKind": "設定1否定"
     },
     {
-      "name": "アイリス② (アイリス・まもるくん・インカ・アーグ・バーンズ)",
+      "name": "アイリス→まもるくん→インカ→アーグ→バーンズ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -272,7 +272,7 @@
       "confirmKind": "設定2否定"
     },
     {
-      "name": "アイリス③ (アイリス・オウビ・まもるくん・アーグ・バーンズ)",
+      "name": "アイリス→オウビ→まもるくん→アーグ→バーンズ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -288,7 +288,7 @@
       "confirmKind": "設定3否定"
     },
     {
-      "name": "アイリス④ (アイリス・オウビ・インカ・まもるくん・バーンズ)",
+      "name": "アイリス→オウビ→インカ→まもるくん→バーンズ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -304,7 +304,7 @@
       "confirmKind": "設定4否定"
     },
     {
-      "name": "アイリス⑤ (アイリス・オウビ・インカ・アーグ・まもるくん)",
+      "name": "アイリス→オウビ→インカ→アーグ→まもるくん",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -320,7 +320,7 @@
       "confirmKind": "設定5否定"
     },
     {
-      "name": "アイリス⑥ (アイリス・オウビ・インカ・アーグ・バーンズ)",
+      "name": "アイリス→オウビ→インカ→アーグ→バーンズ",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -336,7 +336,7 @@
       "confirmKind": "6"
     },
     {
-      "name": "大隊長 (ジョヴァンニ・オウビ・アーグ・バーンズ・紅丸)",
+      "name": "ジョヴァンニ→オウビ→アーグ→バーンズ→紅丸",
       "categoryTag": "REG中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
