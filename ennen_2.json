@@ -57,7 +57,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 19
+      "sortOrder": 300
     },
     {
       "name": "シンラ→リヒト→ヴァルカン→アイリス→オウビ",
@@ -72,7 +72,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 20,
+      "sortOrder": 301,
       "parentItemName": "REG回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
@@ -89,7 +89,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 21,
+      "sortOrder": 302,
       "confirmKind": "4以上"
     },
     {
@@ -105,7 +105,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 22,
+      "sortOrder": 303,
       "confirmKind": "6"
     },
     {
@@ -121,7 +121,7 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 23,
+      "sortOrder": 304,
       "parentItemName": "REG回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
@@ -138,7 +138,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 24,
+      "sortOrder": 305,
       "parentItemName": "REG回数",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
@@ -155,7 +155,7 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 25,
+      "sortOrder": 306,
       "parentItemName": "REG回数",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
@@ -172,7 +172,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 26,
+      "sortOrder": 307,
       "confirmKind": "5以上"
     },
     {
@@ -188,7 +188,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 27,
+      "sortOrder": 308,
       "confirmKind": "設定1否定"
     },
     {
@@ -204,7 +204,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 28,
+      "sortOrder": 309,
       "confirmKind": "設定2否定"
     },
     {
@@ -220,7 +220,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 29,
+      "sortOrder": 310,
       "confirmKind": "設定3否定"
     },
     {
@@ -236,7 +236,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 30,
+      "sortOrder": 311,
       "confirmKind": "設定4否定"
     },
     {
@@ -252,7 +252,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 31,
+      "sortOrder": 312,
       "confirmKind": "設定5否定"
     },
     {
@@ -268,7 +268,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 32,
+      "sortOrder": 313,
       "confirmKind": "6"
     },
     {
@@ -284,7 +284,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 33,
+      "sortOrder": 314,
       "confirmKind": "4以上"
     },
     {
@@ -300,7 +300,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 34,
+      "sortOrder": 315,
       "confirmKind": "4以上"
     },
     {
@@ -316,7 +316,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 35,
+      "sortOrder": 316,
       "confirmKind": "5以上"
     },
     {
@@ -332,7 +332,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 36,
+      "sortOrder": 317,
       "confirmKind": "6"
     },
     {
@@ -348,7 +348,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 40,
+      "sortOrder": 400,
       "confirmKind": "2以上"
     },
     {
@@ -364,7 +364,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 41,
+      "sortOrder": 401,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -380,7 +380,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 42,
+      "sortOrder": 402,
       "confirmKind": "4以上"
     },
     {
@@ -396,7 +396,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 43,
+      "sortOrder": 403,
       "confirmKind": "6"
     },
     {
@@ -412,7 +412,7 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 50,
+      "sortOrder": 500,
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -428,7 +428,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 51,
+      "sortOrder": 501,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -444,7 +444,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 52,
+      "sortOrder": 502,
       "suggestBadgeLabel": "高設定示唆"
     },
     {
@@ -460,7 +460,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 53,
+      "sortOrder": 503,
       "confirmKind": "2以上"
     },
     {
@@ -476,7 +476,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 54,
+      "sortOrder": 504,
       "confirmKind": "4以上"
     },
     {
@@ -492,7 +492,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 55,
+      "sortOrder": 505,
       "confirmKind": "5以上"
     },
     {
@@ -508,7 +508,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 56,
+      "sortOrder": 506,
       "confirmKind": "6"
     },
     {
@@ -524,7 +524,7 @@
       "prob5": 0.0001,
       "prob6": 0.0001,
       "displayMode": "denominator",
-      "sortOrder": 10,
+      "sortOrder": 100,
       "isAutoSum": true,
       "autoSumSourceNames": ""
     },
@@ -541,7 +541,7 @@
       "prob5": 0.59,
       "prob6": 0.55,
       "displayMode": "percent",
-      "sortOrder": 11
+      "sortOrder": 101
     },
     {
       "name": "シンラ＆タマキ＆タケル＆アーサー",
@@ -556,7 +556,7 @@
       "prob5": 0.28,
       "prob6": 0.3,
       "displayMode": "percent",
-      "sortOrder": 12,
+      "sortOrder": 102,
       "parentItemName": "REG終了画面 合計",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
@@ -573,7 +573,7 @@
       "prob5": 0.08,
       "prob6": 0.09,
       "displayMode": "percent",
-      "sortOrder": 13,
+      "sortOrder": 103,
       "parentItemName": "REG終了画面 合計",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
@@ -591,7 +591,7 @@
       "prob5": 0.03,
       "prob6": 0.03,
       "displayMode": "percent",
-      "sortOrder": 14
+      "sortOrder": 104
     },
     {
       "name": "【第8メンバー】赤枠9人",
@@ -607,7 +607,7 @@
       "prob5": 0.02,
       "prob6": 0.02,
       "displayMode": "percent",
-      "sortOrder": 15
+      "sortOrder": 105
     },
     {
       "name": "【仲間全員集合】金枠",
@@ -623,7 +623,7 @@
       "prob5": 0.0001,
       "prob6": 0.01,
       "displayMode": "percent",
-      "sortOrder": 16
+      "sortOrder": 106
     },
     {
       "name": "炎炎ボーナス終了画面 合計",
@@ -638,7 +638,7 @@
       "prob5": 0.0001,
       "prob6": 0.0001,
       "displayMode": "denominator",
-      "sortOrder": 20,
+      "sortOrder": 200,
       "isAutoSum": true,
       "autoSumSourceNames": ""
     },
@@ -655,7 +655,7 @@
       "prob5": 0.73,
       "prob6": 0.7,
       "displayMode": "percent",
-      "sortOrder": 21
+      "sortOrder": 201
     },
     {
       "name": "シンラ＆タマキ＆タケル＆アーサー",
@@ -670,7 +670,7 @@
       "prob5": 0.16,
       "prob6": 0.17,
       "displayMode": "percent",
-      "sortOrder": 22,
+      "sortOrder": 202,
       "parentItemName": "炎炎ボーナス終了画面 合計",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
@@ -687,7 +687,7 @@
       "prob5": 0.06,
       "prob6": 0.07,
       "displayMode": "percent",
-      "sortOrder": 23,
+      "sortOrder": 203,
       "parentItemName": "炎炎ボーナス終了画面 合計",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
@@ -705,7 +705,7 @@
       "prob5": 0.03,
       "prob6": 0.03,
       "displayMode": "percent",
-      "sortOrder": 24
+      "sortOrder": 204
     },
     {
       "name": "【第8メンバー】赤枠9人",
@@ -721,7 +721,7 @@
       "prob5": 0.02,
       "prob6": 0.02,
       "displayMode": "percent",
-      "sortOrder": 25
+      "sortOrder": 205
     },
     {
       "name": "【仲間全員集合】金枠",
@@ -737,7 +737,7 @@
       "prob5": 0.0001,
       "prob6": 0.01,
       "displayMode": "percent",
-      "sortOrder": 26
+      "sortOrder": 206
     }
   ]
 }
