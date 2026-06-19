@@ -46,7 +46,7 @@
     },
     {
       "name": "シンラ＆黒の女",
-      "categoryTag": "第8メンバー終了画面",
+      "categoryTag": "ボーナス終了画面",
       "diffFlag": "small",
       "countKind": "suggest",
       "reverseMode": false,
@@ -62,7 +62,7 @@
     },
     {
       "name": "【第8メンバー】全員集合",
-      "categoryTag": "第8メンバー終了画面",
+      "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -78,7 +78,7 @@
     },
     {
       "name": "【第8メンバー】赤枠9人",
-      "categoryTag": "第8メンバー終了画面",
+      "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -94,7 +94,7 @@
     },
     {
       "name": "【仲間全員集合】金枠",
-      "categoryTag": "第8メンバー終了画面",
+      "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
