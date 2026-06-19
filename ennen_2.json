@@ -464,21 +464,6 @@
       "confirmKind": "6"
     },
     {
-      "name": "エンディング到達回数",
-      "categoryTag": "エンディングミニキャラ",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 49
-    },
-    {
       "name": "シンラ",
       "categoryTag": "エンディングミニキャラ",
       "diffFlag": "small",
@@ -492,7 +477,6 @@
       "prob6": 0.5,
       "displayMode": "percent",
       "sortOrder": 50,
-      "parentItemName": "エンディング到達回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -509,7 +493,6 @@
       "prob6": 1.5,
       "displayMode": "percent",
       "sortOrder": 51,
-      "parentItemName": "エンディング到達回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -526,7 +509,6 @@
       "prob6": 2.5,
       "displayMode": "percent",
       "sortOrder": 52,
-      "parentItemName": "エンディング到達回数",
       "suggestBadgeLabel": "高設定示唆"
     },
     {
