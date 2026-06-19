@@ -15,8 +15,8 @@
   },
   "items": [
     {
-      "name": "アラガミバースト (AT)",
-      "categoryTag": "AT/ART",
+      "name": "アラガミバースト",
+      "categoryTag": "AT",
       "diffFlag": "small",
       "countKind": "count",
       "reverseMode": false,
@@ -30,8 +30,8 @@
       "sortOrder": 0
     },
     {
-      "name": "CZ合算",
-      "categoryTag": "AT/ART",
+      "name": "CZ",
+      "categoryTag": "CZ",
       "diffFlag": "small",
       "countKind": "count",
       "reverseMode": false,
