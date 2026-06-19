@@ -47,7 +47,7 @@
     {
       "name": "シンラ＆黒の女",
       "categoryTag": "ボーナス終了画面",
-      "diffFlag": "small",
+      "diffFlag": "medium",
       "countKind": "suggest",
       "reverseMode": false,
       "prob1": 0.5,
@@ -58,7 +58,7 @@
       "prob6": 2.5,
       "displayMode": "percent",
       "sortOrder": 10,
-      "suggestBadgeLabel": "高設定示唆（弱）"
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "【第8メンバー】全員集合",
@@ -574,6 +574,22 @@
       "displayMode": "denominator",
       "sortOrder": 56,
       "confirmKind": "6"
+    },
+    {
+      "name": "シンラ＆タマキ＆タケル＆アーサー",
+      "categoryTag": "ボーナス終了画面",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 1,
+      "prob2": 1.1,
+      "prob3": 1.2,
+      "prob4": 1.4,
+      "prob5": 1.6,
+      "prob6": 1.8,
+      "displayMode": "percent",
+      "sortOrder": 9,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     }
   ]
 }
