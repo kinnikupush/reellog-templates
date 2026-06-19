@@ -46,38 +46,8 @@
       "isAutoSum": false
     },
     {
-      "name": "弱チェリー/スイカ→CZ",
-      "categoryTag": "CZ突入抽選",
-      "diffFlag": "big",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.002,
-      "prob2": 0.004,
-      "prob3": 0.006,
-      "prob4": 0.008,
-      "prob5": 0.01,
-      "prob6": 0.012,
-      "displayMode": "percent",
-      "sortOrder": 10
-    },
-    {
-      "name": "チャンス目→CZ",
-      "categoryTag": "CZ突入抽選",
-      "diffFlag": "small",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.158,
-      "prob2": 0.172,
-      "prob3": 0.191,
-      "prob4": 0.211,
-      "prob5": 0.234,
-      "prob6": 0.249,
-      "displayMode": "percent",
-      "sortOrder": 11
-    },
-    {
       "name": "強チェリー→AT直撃",
-      "categoryTag": "CZ突入抽選",
+      "categoryTag": "強チェリー",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -88,7 +58,9 @@
       "prob5": 0.051,
       "prob6": 0.059,
       "displayMode": "percent",
-      "sortOrder": 12
+      "sortOrder": 12,
+      "parentItemName": "強チェリー回数",
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "コウタ",
@@ -585,6 +557,21 @@
       "displayMode": "denominator",
       "sortOrder": 90,
       "confirmKind": "6"
+    },
+    {
+      "name": "強チェリー回数",
+      "categoryTag": "強チェリー",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 9
     }
   ]
 }
