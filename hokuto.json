@@ -31,7 +31,7 @@
       "sortOrder": 0
     },
     {
-      "name": "中段チェリー合算",
+      "name": "中段チェリー",
       "categoryTag": "小役",
       "diffFlag": "medium",
       "countKind": "count",
@@ -61,7 +61,7 @@
       "sortOrder": 2
     },
     {
-      "name": "強スイカ合算",
+      "name": "強スイカ",
       "categoryTag": "小役",
       "diffFlag": "medium",
       "countKind": "count",
