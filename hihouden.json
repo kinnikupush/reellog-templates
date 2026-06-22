@@ -154,7 +154,7 @@
       "prob6": 0.12,
       "displayMode": "percent",
       "sortOrder": 20,
-      "suggestBadgeLabel": "高設定示唆（特に設定5）"
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "2時46分",
@@ -346,7 +346,7 @@
       "prob6": 0.12,
       "displayMode": "percent",
       "sortOrder": 40,
-      "suggestBadgeLabel": "高設定示唆（特に設定5）"
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "246OVER",
