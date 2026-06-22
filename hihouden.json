@@ -444,7 +444,7 @@
     },
     {
       "name": "高確率突入回数",
-      "categoryTag": "高確率",
+      "categoryTag": "BB高確率",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -459,7 +459,7 @@
     },
     {
       "name": "BB高確率",
-      "categoryTag": "高確率",
+      "categoryTag": "BB高確率",
       "diffFlag": "medium",
       "countKind": "suggest",
       "reverseMode": false,
