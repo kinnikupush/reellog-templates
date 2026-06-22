@@ -426,6 +426,21 @@
       "displayMode": "percent",
       "sortOrder": 6,
       "parentItemName": "通常時チャンス目回数"
+    },
+    {
+      "name": "謎当たり高確率",
+      "categoryTag": "謎当たり",
+      "diffFlag": "big",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.0001828,
+      "prob2": 0.0002173,
+      "prob3": 0.0002685,
+      "prob4": 0.0003907,
+      "prob5": 0.0004462,
+      "prob6": 0.0004853,
+      "displayMode": "denominator",
+      "sortOrder": 7
     }
   ]
 }
