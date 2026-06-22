@@ -395,6 +395,38 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 43
+    },
+    {
+      "name": "通常時チャンス目回数",
+      "categoryTag": "通常時チャンス目",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 5
+    },
+    {
+      "name": "高確率当選",
+      "categoryTag": "通常時チャンス目",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.5,
+      "prob2": 0.553,
+      "prob3": 0.512,
+      "prob4": 0.576,
+      "prob5": 0.54,
+      "prob6": 0.602,
+      "displayMode": "percent",
+      "sortOrder": 6,
+      "parentItemName": "通常時チャンス目回数",
+      "suggestBadgeLabel": "偶数設定示唆"
     }
   ]
 }
