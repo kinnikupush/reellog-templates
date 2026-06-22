@@ -141,7 +141,7 @@
       "sortOrder": 14
     },
     {
-      "name": "ニュース 1時40分",
+      "name": "1時40分",
       "categoryTag": "秘宝伝ニュース",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -157,7 +157,7 @@
       "suggestBadgeLabel": "高設定示唆（特に設定5）"
     },
     {
-      "name": "ニュース 2時46分",
+      "name": "2時46分",
       "categoryTag": "秘宝伝ニュース",
       "diffFlag": "none",
       "countKind": "count",
@@ -173,7 +173,7 @@
       "sortOrder": 21
     },
     {
-      "name": "ニュース 4時56分",
+      "name": "4時56分",
       "categoryTag": "秘宝伝ニュース",
       "diffFlag": "none",
       "countKind": "count",
