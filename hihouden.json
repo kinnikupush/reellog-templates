@@ -441,6 +441,38 @@
       "prob6": 0.0004853,
       "displayMode": "denominator",
       "sortOrder": 7
+    },
+    {
+      "name": "高確率突入回数",
+      "categoryTag": "高確率",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 8
+    },
+    {
+      "name": "BB高確率",
+      "categoryTag": "高確率",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.036,
+      "prob2": 0.043,
+      "prob3": 0.05,
+      "prob4": 0.058,
+      "prob5": 0.065,
+      "prob6": 0.072,
+      "displayMode": "percent",
+      "sortOrder": 9,
+      "parentItemName": "高確率突入回数",
+      "suggestBadgeLabel": "高設定示唆"
     }
   ]
 }
