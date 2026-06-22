@@ -471,8 +471,7 @@
       "prob6": 0.072,
       "displayMode": "percent",
       "sortOrder": 9,
-      "parentItemName": "高確率突入回数",
-      "suggestBadgeLabel": "高設定示唆"
+      "parentItemName": "高確率突入回数"
     }
   ]
 }
