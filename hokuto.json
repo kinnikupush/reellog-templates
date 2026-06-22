@@ -16,7 +16,7 @@
   },
   "items": [
     {
-      "name": "BB (合算)",
+      "name": "BB",
       "categoryTag": "ボーナス",
       "diffFlag": "big",
       "countKind": "count",
