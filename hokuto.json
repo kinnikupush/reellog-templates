@@ -348,7 +348,8 @@
       "prob6": 0.0553,
       "displayMode": "percent",
       "sortOrder": 18,
-      "parentItemName": "BB終了ボイス 当選 確認回数"
+      "parentItemName": "BB終了ボイス 当選 確認回数",
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "サウザー",
@@ -364,7 +365,8 @@
       "prob6": 0.0553,
       "displayMode": "percent",
       "sortOrder": 19,
-      "parentItemName": "BB終了ボイス 当選 確認回数"
+      "parentItemName": "BB終了ボイス 当選 確認回数",
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "ジャギ",
@@ -380,7 +382,8 @@
       "prob6": 0.0553,
       "displayMode": "percent",
       "sortOrder": 20,
-      "parentItemName": "BB終了ボイス 当選 確認回数"
+      "parentItemName": "BB終了ボイス 当選 確認回数",
+      "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
       "name": "アミバ",
@@ -396,7 +399,8 @@
       "prob6": 0.0553,
       "displayMode": "percent",
       "sortOrder": 21,
-      "parentItemName": "BB終了ボイス 当選 確認回数"
+      "parentItemName": "BB終了ボイス 当選 確認回数",
+      "suggestBadgeLabel": "高設定示唆（強）"
     }
   ]
 }
