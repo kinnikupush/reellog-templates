@@ -401,6 +401,40 @@
       "sortOrder": 21,
       "parentItemName": "BB終了ボイス 当選 確認回数",
       "suggestBadgeLabel": "高設定示唆（強）"
+    },
+    {
+      "name": "ケンシロウ",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.005,
+      "prob2": 0.005,
+      "prob3": 0.01,
+      "prob4": 0.03,
+      "prob5": 0.03,
+      "prob6": 0.03,
+      "displayMode": "percent",
+      "sortOrder": 22,
+      "parentItemName": "BB終了ボイス 当選 確認回数",
+      "suggestBadgeLabel": "設定4以上 期待大"
+    },
+    {
+      "name": "ユリア",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.003,
+      "prob2": 0.003,
+      "prob3": 0.004,
+      "prob4": 0.005,
+      "prob5": 0.02,
+      "prob6": 0.02,
+      "displayMode": "percent",
+      "sortOrder": 23,
+      "parentItemName": "BB終了ボイス 当選 確認回数",
+      "suggestBadgeLabel": "設定5以上 期待大"
     }
   ]
 }
