@@ -91,8 +91,8 @@
       "sortOrder": 4
     },
     {
-      "name": "BB終了ボイス 確認回数",
-      "categoryTag": "BB終了ボイス",
+      "name": "BB終了ボイス 非当選 確認回数",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -107,7 +107,7 @@
     },
     {
       "name": "シン",
-      "categoryTag": "BB終了ボイス",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "small",
       "countKind": "suggest",
       "reverseMode": false,
@@ -119,12 +119,12 @@
       "prob6": 0.0717,
       "displayMode": "percent",
       "sortOrder": 11,
-      "parentItemName": "BB終了ボイス 確認回数",
+      "parentItemName": "BB終了ボイス 非当選 確認回数",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "サウザー",
-      "categoryTag": "BB終了ボイス",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "small",
       "countKind": "suggest",
       "reverseMode": false,
@@ -136,12 +136,12 @@
       "prob6": 0.0717,
       "displayMode": "percent",
       "sortOrder": 12,
-      "parentItemName": "BB終了ボイス 確認回数",
+      "parentItemName": "BB終了ボイス 非当選 確認回数",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "ジャギ",
-      "categoryTag": "BB終了ボイス",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "medium",
       "countKind": "suggest",
       "reverseMode": false,
@@ -153,12 +153,12 @@
       "prob6": 0.0717,
       "displayMode": "percent",
       "sortOrder": 13,
-      "parentItemName": "BB終了ボイス 確認回数",
+      "parentItemName": "BB終了ボイス 非当選 確認回数",
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
       "name": "アミバ",
-      "categoryTag": "BB終了ボイス",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -170,12 +170,12 @@
       "prob6": 0.0717,
       "displayMode": "percent",
       "sortOrder": 14,
-      "parentItemName": "BB終了ボイス 確認回数",
+      "parentItemName": "BB終了ボイス 非当選 確認回数",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "ケンシロウ",
-      "categoryTag": "BB終了ボイス",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -187,12 +187,12 @@
       "prob6": 0.03,
       "displayMode": "percent",
       "sortOrder": 15,
-      "parentItemName": "BB終了ボイス 確認回数",
+      "parentItemName": "BB終了ボイス 非当選 確認回数",
       "suggestBadgeLabel": "設定4以上 期待大"
     },
     {
       "name": "ユリア",
-      "categoryTag": "BB終了ボイス",
+      "categoryTag": "BB終了ボイス（1G連非当選）",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -204,7 +204,7 @@
       "prob6": 0.02,
       "displayMode": "percent",
       "sortOrder": 16,
-      "parentItemName": "BB終了ボイス 確認回数",
+      "parentItemName": "BB終了ボイス 非当選 確認回数",
       "suggestBadgeLabel": "設定5以上 期待大"
     },
     {
@@ -318,6 +318,85 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 41
+    },
+    {
+      "name": "BB終了ボイス 当選 確認回数",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 17
+    },
+    {
+      "name": "シン",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.0435,
+      "prob2": 0.0471,
+      "prob3": 0.0477,
+      "prob4": 0.0482,
+      "prob5": 0.0518,
+      "prob6": 0.0553,
+      "displayMode": "percent",
+      "sortOrder": 18,
+      "parentItemName": "BB終了ボイス 当選 確認回数"
+    },
+    {
+      "name": "サウザー",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.0388,
+      "prob2": 0.0412,
+      "prob3": 0.0447,
+      "prob4": 0.0482,
+      "prob5": 0.0518,
+      "prob6": 0.0553,
+      "displayMode": "percent",
+      "sortOrder": 19,
+      "parentItemName": "BB終了ボイス 当選 確認回数"
+    },
+    {
+      "name": "ジャギ",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.0259,
+      "prob2": 0.0294,
+      "prob3": 0.0388,
+      "prob4": 0.0482,
+      "prob5": 0.0518,
+      "prob6": 0.0553,
+      "displayMode": "percent",
+      "sortOrder": 20,
+      "parentItemName": "BB終了ボイス 当選 確認回数"
+    },
+    {
+      "name": "アミバ",
+      "categoryTag": "BB終了ボイス（1G連当選）",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.0094,
+      "prob2": 0.0118,
+      "prob3": 0.03,
+      "prob4": 0.0482,
+      "prob5": 0.0518,
+      "prob6": 0.0553,
+      "displayMode": "percent",
+      "sortOrder": 21,
+      "parentItemName": "BB終了ボイス 当選 確認回数"
     }
   ]
 }
