@@ -168,7 +168,8 @@
       "prob5": 0.06,
       "prob6": 0.07,
       "displayMode": "percent",
-      "sortOrder": 20
+      "sortOrder": 20,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "水着 (無名+菖蒲)",
@@ -343,7 +344,8 @@
       "prob5": 0.1,
       "prob6": 0.05,
       "displayMode": "percent",
-      "sortOrder": 50
+      "sortOrder": 50,
+      "suggestBadgeLabel": "設定3・5示唆"
     },
     {
       "name": "女性 (無名特殊以外)",
@@ -358,7 +360,8 @@
       "prob5": 0.05,
       "prob6": 0.1,
       "displayMode": "percent",
-      "sortOrder": 51
+      "sortOrder": 51,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "景之 弱「なぜ言わなかった私をヒトだと!」",
@@ -373,7 +376,8 @@
       "prob5": 0.07,
       "prob6": 0.1,
       "displayMode": "percent",
-      "sortOrder": 52
+      "sortOrder": 52,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "景之 中「私はヒトかカバネか!?」",
@@ -388,7 +392,8 @@
       "prob5": 0.05,
       "prob6": 0.07,
       "displayMode": "percent",
-      "sortOrder": 53
+      "sortOrder": 53,
+      "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
       "name": "景之 強「今年は最後かな」",
@@ -403,7 +408,8 @@
       "prob5": 0.03,
       "prob6": 0.05,
       "displayMode": "percent",
-      "sortOrder": 54
+      "sortOrder": 54,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "無名特殊「普通じゃないね」",
@@ -498,7 +504,8 @@
       "prob5": 0.05,
       "prob6": 0.07,
       "displayMode": "percent",
-      "sortOrder": 63
+      "sortOrder": 63,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "ミヤマカラスアゲハ",
@@ -513,7 +520,8 @@
       "prob5": 0.02,
       "prob6": 0.04,
       "displayMode": "percent",
-      "sortOrder": 64
+      "sortOrder": 64,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "3周期到達回数",
