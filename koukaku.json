@@ -121,7 +121,8 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 21
+      "sortOrder": 21,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "タチコマ",
@@ -136,7 +137,8 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 22
+      "sortOrder": 22,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "トグサ",
@@ -151,7 +153,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 23
+      "sortOrder": 23,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "イシカワ",
@@ -166,7 +169,8 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 24
+      "sortOrder": 24,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "素子",
@@ -181,7 +185,8 @@
       "prob5": 1.5,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 25
+      "sortOrder": 25,
+      "suggestBadgeLabel": "設定2・3否定,高設定示唆（強）"
     },
     {
       "name": "バカンス",
@@ -228,7 +233,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 30
+      "sortOrder": 30,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "トグサ",
@@ -243,7 +249,8 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 31
+      "sortOrder": 31,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "バトー",
@@ -258,7 +265,8 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 32
+      "sortOrder": 32,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "アオイ (金枠)",
@@ -289,7 +297,8 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 40
+      "sortOrder": 40,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "黄",
@@ -304,7 +313,8 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 41
+      "sortOrder": 41,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "緑",
@@ -319,7 +329,8 @@
       "prob5": 2.5,
       "prob6": 0.3,
       "displayMode": "percent",
-      "sortOrder": 42
+      "sortOrder": 42,
+      "suggestBadgeLabel": "奇数設定示唆,高設定示唆"
     },
     {
       "name": "赤",
@@ -334,7 +345,8 @@
       "prob5": 0.3,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 43
+      "sortOrder": 43,
+      "suggestBadgeLabel": "偶数設定示唆,高設定示唆"
     },
     {
       "name": "紫",
