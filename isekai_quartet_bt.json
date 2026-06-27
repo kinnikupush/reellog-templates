@@ -200,7 +200,7 @@
       "name": "ハズレ目 (15枚役)",
       "categoryTag": "BB中",
       "diffFlag": "big",
-      "countKind": "count",
+      "countKind": "suggest",
       "reverseMode": false,
       "prob1": 0.0000458,
       "prob2": 0.000488,
@@ -209,13 +209,14 @@
       "prob5": 0.000977,
       "prob6": 0.001953,
       "displayMode": "denominator",
-      "sortOrder": 500
+      "sortOrder": 501,
+      "parentItemName": "BB中G数"
     },
     {
       "name": "特殊7枚役",
       "categoryTag": "BT中",
-      "diffFlag": "medium",
-      "countKind": "count",
+      "diffFlag": "big",
+      "countKind": "suggest",
       "reverseMode": false,
       "prob1": 0.000442,
       "prob2": 0.001175,
@@ -224,7 +225,8 @@
       "prob5": 0.001327,
       "prob6": 0.001511,
       "displayMode": "denominator",
-      "sortOrder": 600
+      "sortOrder": 601,
+      "parentItemName": "BT中G数"
     },
     {
       "name": "女子キャラ集合",
@@ -584,6 +586,36 @@
       "prob6": 0.00009155245497908026,
       "displayMode": "denominator",
       "sortOrder": 402
+    },
+    {
+      "name": "BB中G数",
+      "categoryTag": "BB中",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 500
+    },
+    {
+      "name": "BT中G数",
+      "categoryTag": "BT中",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 600
     }
   ]
 }
