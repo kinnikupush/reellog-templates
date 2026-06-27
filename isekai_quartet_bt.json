@@ -58,7 +58,7 @@
       "prob5": 0.000961,
       "prob6": 0.001083,
       "displayMode": "denominator",
-      "sortOrder": 0
+      "sortOrder": 200
     },
     {
       "name": "単独BB",
@@ -73,7 +73,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 3,
+      "sortOrder": 2,
       "confirmKind": "2以上"
     },
     {
@@ -89,7 +89,7 @@
       "prob5": 0.151515,
       "prob6": 0.15625,
       "displayMode": "denominator",
-      "sortOrder": 10
+      "sortOrder": 100
     },
     {
       "name": "スイカ (強弱合算)",
@@ -104,7 +104,7 @@
       "prob5": 0.025641,
       "prob6": 0.026738,
       "displayMode": "denominator",
-      "sortOrder": 11
+      "sortOrder": 101
     },
     {
       "name": "チェリー",
@@ -119,7 +119,7 @@
       "prob5": 0.005663,
       "prob6": 0.005737,
       "displayMode": "denominator",
-      "sortOrder": 12
+      "sortOrder": 102
     },
     {
       "name": "いせかる目",
@@ -134,7 +134,7 @@
       "prob5": 0.010299,
       "prob6": 0.011211,
       "displayMode": "denominator",
-      "sortOrder": 13
+      "sortOrder": 103
     },
     {
       "name": "特殊15枚役 (中段ベル)",
@@ -149,7 +149,7 @@
       "prob5": 0.0000763,
       "prob6": 0.000122,
       "displayMode": "denominator",
-      "sortOrder": 14
+      "sortOrder": 104
     },
     {
       "name": "中段リリベ",
@@ -164,7 +164,7 @@
       "prob5": 0.00087,
       "prob6": 0.001007,
       "displayMode": "denominator",
-      "sortOrder": 20
+      "sortOrder": 300
     },
     {
       "name": "滑りリリベ",
@@ -179,7 +179,7 @@
       "prob5": 0.000122,
       "prob6": 0.000137,
       "displayMode": "denominator",
-      "sortOrder": 21
+      "sortOrder": 301
     },
     {
       "name": "チェリー付きリリベ",
@@ -194,7 +194,7 @@
       "prob5": 0.000183,
       "prob6": 0.000259,
       "displayMode": "denominator",
-      "sortOrder": 22
+      "sortOrder": 302
     },
     {
       "name": "ハズレ目 (15枚役)",
@@ -209,7 +209,7 @@
       "prob5": 0.000977,
       "prob6": 0.001953,
       "displayMode": "denominator",
-      "sortOrder": 30
+      "sortOrder": 500
     },
     {
       "name": "特殊7枚役",
@@ -224,7 +224,7 @@
       "prob5": 0.001327,
       "prob6": 0.001511,
       "displayMode": "denominator",
-      "sortOrder": 40
+      "sortOrder": 600
     },
     {
       "name": "女子キャラ集合",
@@ -239,7 +239,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 50
+      "sortOrder": 700
     },
     {
       "name": "全員集合",
@@ -254,7 +254,7 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 51
+      "sortOrder": 701
     },
     {
       "name": "シルクハット",
@@ -269,7 +269,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 52,
+      "sortOrder": 702,
       "confirmKind": "2以上"
     },
     {
@@ -285,7 +285,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 53,
+      "sortOrder": 703,
       "confirmKind": "5以上"
     },
     {
@@ -301,7 +301,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 60,
+      "sortOrder": 800,
       "confirmKind": "5以上"
     },
     {
@@ -317,7 +317,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 61,
+      "sortOrder": 801,
       "confirmKind": "6"
     },
     {
@@ -333,7 +333,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 62,
+      "sortOrder": 802,
       "confirmKind": "2以上"
     },
     {
@@ -349,7 +349,7 @@
       "prob5": 3.5,
       "prob6": 5,
       "displayMode": "percent",
-      "sortOrder": 70,
+      "sortOrder": 900,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -365,7 +365,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 71
+      "sortOrder": 901
     },
     {
       "name": "紫画面",
@@ -380,7 +380,7 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 72
+      "sortOrder": 902
     },
     {
       "name": "金画面 (騎馬戦共闘)",
@@ -395,7 +395,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 73,
+      "sortOrder": 903,
       "confirmKind": "2以上"
     },
     {
@@ -411,7 +411,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 74,
+      "sortOrder": 904,
       "confirmKind": "5以上"
     },
     {
@@ -427,7 +427,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 75,
+      "sortOrder": 905,
       "confirmKind": "6"
     },
     {
@@ -443,7 +443,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 80,
+      "sortOrder": 1000,
       "confirmKind": "5以上"
     },
     {
@@ -459,7 +459,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 81,
+      "sortOrder": 1001,
       "confirmKind": "6"
     },
     {
@@ -475,7 +475,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 90,
+      "sortOrder": 1100,
       "confirmKind": "2以上"
     },
     {
@@ -491,7 +491,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 91,
+      "sortOrder": 1101,
       "confirmKind": "5以上"
     },
     {
@@ -507,7 +507,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 92,
+      "sortOrder": 1102,
       "confirmKind": "6"
     },
     {
@@ -523,7 +523,7 @@
       "prob5": 0.00006103515625,
       "prob6": 0.00006103515625,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 201
     },
     {
       "name": "強スイカ＋青7BB",
@@ -538,7 +538,7 @@
       "prob5": 0.00009155245497908026,
       "prob6": 0.00010681136045629814,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 202
     },
     {
       "name": "ベル＋チェリー付きリリベ",
@@ -553,7 +553,7 @@
       "prob5": 0.00035095107741980766,
       "prob6": 0.00038147554741741054,
       "displayMode": "denominator",
-      "sortOrder": 0
+      "sortOrder": 400
     },
     {
       "name": "弱スイカ＋中段リリベ",
@@ -568,7 +568,7 @@
       "prob5": 0.00018310658634391078,
       "prob6": 0.00022888008972099516,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 401
     },
     {
       "name": "特殊15枚役＋中段リリベ",
@@ -583,7 +583,7 @@
       "prob5": 0.00006103515625,
       "prob6": 0.00009155245497908026,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 402
     }
   ]
 }
