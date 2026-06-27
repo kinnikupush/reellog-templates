@@ -512,6 +512,68 @@
       "prob6": 0.04,
       "displayMode": "percent",
       "sortOrder": 64
+    },
+    {
+      "name": "3周期到達回数",
+      "categoryTag": "周期ボーナス当選",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": -1
+    },
+    {
+      "name": "3周期当選",
+      "categoryTag": "周期ボーナス当選",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.184,
+      "prob2": 0.238,
+      "prob3": 0.211,
+      "prob4": 0.285,
+      "prob5": 0.324,
+      "prob6": 0.371,
+      "displayMode": "percent",
+      "sortOrder": 0,
+      "parentItemName": "3周期到達回数"
+    },
+    {
+      "name": "4周期到達回数",
+      "categoryTag": "周期ボーナス当選",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 1
+    },
+    {
+      "name": "4周期当選",
+      "categoryTag": "周期ボーナス当選",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.336,
+      "prob2": 0.352,
+      "prob3": 0.363,
+      "prob4": 0.402,
+      "prob5": 0.434,
+      "prob6": 0.469,
+      "displayMode": "percent",
+      "sortOrder": 2,
+      "parentItemName": "4周期到達回数"
     }
   ]
 }
