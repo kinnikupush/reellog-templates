@@ -342,6 +342,37 @@
       "displayMode": "denominator",
       "sortOrder": 75,
       "confirmKind": "6"
+    },
+    {
+      "name": "天撃挑戦回数",
+      "categoryTag": "天撃成功率",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 76
+    },
+    {
+      "name": "トータル成功率",
+      "categoryTag": "天撃成功率",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.506,
+      "prob2": 0.506,
+      "prob3": 0.512,
+      "prob4": 0.515,
+      "prob5": 0.549,
+      "prob6": 0.608,
+      "displayMode": "percent",
+      "sortOrder": 77,
+      "parentItemName": "天撃挑戦回数"
     }
   ]
 }
