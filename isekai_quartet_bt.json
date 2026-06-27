@@ -509,6 +509,36 @@
       "displayMode": "denominator",
       "sortOrder": 92,
       "confirmKind": "6"
+    },
+    {
+      "name": "弱スイカ＋青7BB",
+      "categoryTag": "スイカ重複ボーナス",
+      "diffFlag": "big",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.0000152587890625,
+      "prob2": 0.000030517578125,
+      "prob3": 0.000041666666666666665,
+      "prob4": 0.00005,
+      "prob5": 0.00006103515625,
+      "prob6": 0.00006103515625,
+      "displayMode": "denominator",
+      "sortOrder": 0
+    },
+    {
+      "name": "強スイカ＋青7BB",
+      "categoryTag": "スイカ重複ボーナス",
+      "diffFlag": "big",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.00004577643703679968,
+      "prob2": 0.00004577643703679968,
+      "prob3": 0.0000625,
+      "prob4": 0.00007692307692307693,
+      "prob5": 0.00009155245497908026,
+      "prob6": 0.00010681136045629814,
+      "displayMode": "denominator",
+      "sortOrder": 1
     }
   ]
 }
