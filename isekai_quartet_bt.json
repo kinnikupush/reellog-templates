@@ -338,7 +338,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 901
+      "sortOrder": 901,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "紫画面",
@@ -353,7 +354,8 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 902
+      "sortOrder": 902,
+      "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
       "name": "金画面 (騎馬戦共闘)",
