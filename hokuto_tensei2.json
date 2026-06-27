@@ -152,7 +152,8 @@
       "prob5": 0.4,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 60
+      "sortOrder": 60,
+      "suggestBadgeLabel": "設定2・4示唆"
     },
     {
       "name": "白点滅",
@@ -167,7 +168,8 @@
       "prob5": 0.6,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 61
+      "sortOrder": 61,
+      "suggestBadgeLabel": "設定3・5示唆"
     },
     {
       "name": "水色点灯",
@@ -182,7 +184,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 62
+      "sortOrder": 62,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "水色点滅",
@@ -197,7 +200,8 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 63
+      "sortOrder": 63,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "黄緑点灯",
