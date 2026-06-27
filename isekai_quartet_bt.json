@@ -293,7 +293,7 @@
       "confirmKind": "6"
     },
     {
-      "name": "086枚OVER (2以上 / 3回で5以上 / 4回で6)",
+      "name": "086枚OVER",
       "categoryTag": "獲得枚数",
       "diffFlag": "none",
       "countKind": "count",
@@ -306,7 +306,8 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 802,
-      "confirmKind": "2以上"
+      "confirmKind": "2以上",
+      "confirmCountThresholds": "3:5以上,4:6"
     },
     {
       "name": "ペテルギウス",
