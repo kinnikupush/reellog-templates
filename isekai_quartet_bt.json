@@ -16,7 +16,7 @@
   "items": [
     {
       "name": "ボーナス初当たり",
-      "categoryTag": "AT/ART",
+      "categoryTag": "ボーナス",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
@@ -31,7 +31,7 @@
     },
     {
       "name": "ボーナス合算",
-      "categoryTag": "AT/ART",
+      "categoryTag": "ボーナス",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -47,7 +47,7 @@
     },
     {
       "name": "BB直撃 (通常時)",
-      "categoryTag": "AT/ART",
+      "categoryTag": "ボーナス",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -62,7 +62,7 @@
     },
     {
       "name": "単独BB (赤7+青7)",
-      "categoryTag": "AT/ART",
+      "categoryTag": "ボーナス",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
