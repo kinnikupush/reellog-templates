@@ -125,7 +125,7 @@
       "suggestBadgeLabel": "設定2・4・6濃厚"
     },
     {
-      "name": "グループA (青/ココ・ヨナ等)",
+      "name": "ココ/ヨナ/レーム/ルツ/バルメ",
       "categoryTag": "RB中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -141,7 +141,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "グループB (青/トージョ・ワイリ等)",
+      "name": "トージョ/ワイリ/ウゴ/マオ/アール",
       "categoryTag": "RB中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -157,7 +157,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "グループC (青/チェキータ等)",
+      "name": "チェキータ/チェン・グオメン/カレン",
       "categoryTag": "RB中キャラ紹介",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -173,7 +173,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "グループD (緑/南・ブックマン等)",
+      "name": "南/ブックマン/ヘックス",
       "categoryTag": "RB中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -189,7 +189,7 @@
       "confirmKind": "2以上"
     },
     {
-      "name": "グループE (赤/キャスパー等)",
+      "name": "キャスパー/エコー/博士3人",
       "categoryTag": "RB中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -205,7 +205,7 @@
       "confirmKind": "4以上"
     },
     {
-      "name": "グループF (金/ココ幼少期)",
+      "name": "ココ幼少期",
       "categoryTag": "RB中キャラ紹介",
       "diffFlag": "none",
       "countKind": "count",
