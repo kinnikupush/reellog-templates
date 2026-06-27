@@ -233,7 +233,8 @@
       "prob5": 0.1094,
       "prob6": 0.1172,
       "displayMode": "percent",
-      "sortOrder": 40
+      "sortOrder": 40,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "夕方",
@@ -248,7 +249,8 @@
       "prob5": 0.1875,
       "prob6": 0.1563,
       "displayMode": "percent",
-      "sortOrder": 41
+      "sortOrder": 41,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "バルメ",
@@ -263,10 +265,11 @@
       "prob5": 0.1563,
       "prob6": 0.1875,
       "displayMode": "percent",
-      "sortOrder": 42
+      "sortOrder": 42,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "ハンドガンと薬莢 (2否定+5以上示唆)",
+      "name": "ハンドガンと薬莢",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -278,10 +281,11 @@
       "prob5": 0.0391,
       "prob6": 0.0391,
       "displayMode": "percent",
-      "sortOrder": 43
+      "sortOrder": 43,
+      "suggestBadgeLabel": "設定2否定,設定5以上示唆"
     },
     {
-      "name": "旧ココ部隊 (2・4・6濃厚)",
+      "name": "旧ココ部隊",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -293,7 +297,8 @@
       "prob5": 0.0001,
       "prob6": 0.0313,
       "displayMode": "percent",
-      "sortOrder": 44
+      "sortOrder": 44,
+      "suggestBadgeLabel": "設定2・4・6濃厚"
     },
     {
       "name": "キャスパー",
@@ -404,7 +409,8 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 60
+      "sortOrder": 60,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "黄",
@@ -419,7 +425,8 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 61
+      "sortOrder": 61,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "緑",
@@ -434,7 +441,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 62
+      "sortOrder": 62,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "赤",
