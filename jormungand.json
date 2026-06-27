@@ -137,7 +137,8 @@
       "prob5": 0.5625,
       "prob6": 0.4141,
       "displayMode": "percent",
-      "sortOrder": 30
+      "sortOrder": 30,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "グループB (青/トージョ・ワイリ等)",
@@ -152,7 +153,8 @@
       "prob5": 0.3516,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 31
+      "sortOrder": 31,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "グループC (青/チェキータ等)",
@@ -167,7 +169,8 @@
       "prob5": 0.0859,
       "prob6": 0.0859,
       "displayMode": "percent",
-      "sortOrder": 32
+      "sortOrder": 32,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "グループD (緑/南・ブックマン等)",
