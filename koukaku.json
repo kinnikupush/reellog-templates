@@ -61,22 +61,6 @@
       "parentItemName": "殲滅ZONE発展回数"
     },
     {
-      "name": "タチコマSAM出現 (AT後)",
-      "categoryTag": "視覚フラグ",
-      "diffFlag": "small",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.3,
-      "prob2": 0.329,
-      "prob3": 0.375,
-      "prob4": 0.417,
-      "prob5": 0.458,
-      "prob6": 0.483,
-      "displayMode": "percent",
-      "sortOrder": 12,
-      "parentItemName": "200/400G到達回数"
-    },
-    {
       "name": "AT突入時 引き戻しストック",
       "categoryTag": "AT/ART",
       "diffFlag": "medium",
@@ -489,21 +473,6 @@
       "prob6": 0.001,
       "displayMode": "denominator",
       "sortOrder": 2
-    },
-    {
-      "name": "200/400G到達回数",
-      "categoryTag": "視覚フラグ",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 11
     },
     {
       "name": "青マス到達回数",
