@@ -249,7 +249,7 @@
     },
     {
       "name": "黄緑点灯 (通常B否定で2以上)",
-      "categoryTag": "入賞ランプA",
+      "categoryTag": "上部両サイドランプ",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -265,7 +265,7 @@
     },
     {
       "name": "黄緑点滅 (通常C否定で2以上)",
-      "categoryTag": "入賞ランプA",
+      "categoryTag": "上部両サイドランプ",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -281,7 +281,7 @@
     },
     {
       "name": "金色点灯 (通常B否定で4以上)",
-      "categoryTag": "入賞ランプA",
+      "categoryTag": "上部両サイドランプ",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -297,7 +297,7 @@
     },
     {
       "name": "金色点滅 (通常C否定で4以上)",
-      "categoryTag": "入賞ランプA",
+      "categoryTag": "上部両サイドランプ",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -313,7 +313,7 @@
     },
     {
       "name": "紫点灯 (通常B否定で6)",
-      "categoryTag": "入賞ランプA",
+      "categoryTag": "上部両サイドランプ",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -329,7 +329,7 @@
     },
     {
       "name": "紫点滅 (通常C否定で6)",
-      "categoryTag": "入賞ランプA",
+      "categoryTag": "上部両サイドランプ",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
