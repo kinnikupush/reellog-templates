@@ -153,7 +153,7 @@
     },
     {
       "name": "中段リリベ",
-      "categoryTag": "単独いせかる目",
+      "categoryTag": "いせかる目の単独当選率",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -168,7 +168,7 @@
     },
     {
       "name": "滑りリリベ",
-      "categoryTag": "単独いせかる目",
+      "categoryTag": "いせかる目の単独当選率",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -183,7 +183,7 @@
     },
     {
       "name": "チェリー付きリリベ",
-      "categoryTag": "単独いせかる目",
+      "categoryTag": "いせかる目の単独当選率",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
