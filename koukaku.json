@@ -45,22 +45,6 @@
       "sortOrder": 1
     },
     {
-      "name": "殲滅ZONE発展→AT直撃",
-      "categoryTag": "AT/ART",
-      "diffFlag": "big",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.0000937,
-      "prob2": 0.0001021,
-      "prob3": 0.0001293,
-      "prob4": 0.0001632,
-      "prob5": 0.0001906,
-      "prob6": 0.0002236,
-      "displayMode": "denominator",
-      "sortOrder": 3,
-      "parentItemName": "殲滅ZONE発展回数"
-    },
-    {
       "name": "AT突入時 引き戻しストック",
       "categoryTag": "AT/ART",
       "diffFlag": "medium",
@@ -73,7 +57,7 @@
       "prob5": 0.083,
       "prob6": 0.096,
       "displayMode": "percent",
-      "sortOrder": 14,
+      "sortOrder": 3,
       "parentItemName": "AT突入回数"
     },
     {
@@ -89,7 +73,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 20,
+      "sortOrder": 200,
       "confirmKind": "2以上"
     },
     {
@@ -105,7 +89,7 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 21,
+      "sortOrder": 201,
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -121,7 +105,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 22,
+      "sortOrder": 202,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -137,7 +121,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 23,
+      "sortOrder": 203,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -153,7 +137,7 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 24,
+      "sortOrder": 204,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -169,7 +153,7 @@
       "prob5": 1.5,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 25,
+      "sortOrder": 205,
       "suggestBadgeLabel": "設定2・3否定,高設定示唆（強）"
     },
     {
@@ -185,7 +169,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 26,
+      "sortOrder": 206,
       "confirmKind": "4以上"
     },
     {
@@ -201,7 +185,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 27,
+      "sortOrder": 207,
       "confirmKind": "6"
     },
     {
@@ -217,7 +201,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 30,
+      "sortOrder": 300,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -233,7 +217,7 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 31,
+      "sortOrder": 301,
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -249,7 +233,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 32,
+      "sortOrder": 302,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -265,7 +249,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 33,
+      "sortOrder": 303,
       "confirmKind": "4以上"
     },
     {
@@ -281,7 +265,7 @@
       "prob5": 1.5,
       "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 40,
+      "sortOrder": 400,
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -297,7 +281,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 41,
+      "sortOrder": 401,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -313,7 +297,7 @@
       "prob5": 2.5,
       "prob6": 0.3,
       "displayMode": "percent",
-      "sortOrder": 42,
+      "sortOrder": 402,
       "suggestBadgeLabel": "奇数設定示唆,高設定示唆"
     },
     {
@@ -329,7 +313,7 @@
       "prob5": 0.3,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 43,
+      "sortOrder": 403,
       "suggestBadgeLabel": "偶数設定示唆,高設定示唆"
     },
     {
@@ -345,7 +329,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 44,
+      "sortOrder": 404,
       "confirmKind": "2以上"
     },
     {
@@ -361,7 +345,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 45,
+      "sortOrder": 405,
       "confirmKind": "6"
     },
     {
@@ -377,7 +361,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 50,
+      "sortOrder": 500,
       "confirmKind": "2以上"
     },
     {
@@ -393,7 +377,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 51,
+      "sortOrder": 501,
       "confirmKind": "3以上"
     },
     {
@@ -409,7 +393,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 52,
+      "sortOrder": 502,
       "confirmKind": "4以上"
     },
     {
@@ -425,7 +409,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 53,
+      "sortOrder": 503,
       "confirmKind": "5以上"
     },
     {
@@ -441,26 +425,11 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 54,
+      "sortOrder": 504,
       "confirmKind": "6"
     },
     {
       "name": "AT突入回数",
-      "categoryTag": "AT/ART",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 13
-    },
-    {
-      "name": "殲滅ZONE発展回数",
       "categoryTag": "AT/ART",
       "diffFlag": "none",
       "countKind": "count",
@@ -487,7 +456,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 55
+      "sortOrder": 100
     },
     {
       "name": "青マス当選",
@@ -502,7 +471,7 @@
       "prob5": 0.075,
       "prob6": 0.096,
       "displayMode": "percent",
-      "sortOrder": 56,
+      "sortOrder": 101,
       "parentItemName": "青マス到達回数"
     },
     {
@@ -518,7 +487,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 57
+      "sortOrder": 102
     },
     {
       "name": "緑マス当選",
@@ -533,7 +502,7 @@
       "prob5": 0.275,
       "prob6": 0.304,
       "displayMode": "percent",
-      "sortOrder": 58,
+      "sortOrder": 103,
       "parentItemName": "緑マス到達回数"
     },
     {
@@ -549,7 +518,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 59
+      "sortOrder": 104
     },
     {
       "name": "赤マス当選",
@@ -564,7 +533,7 @@
       "prob5": 0.604,
       "prob6": 0.617,
       "displayMode": "percent",
-      "sortOrder": 60,
+      "sortOrder": 105,
       "parentItemName": "赤マス到達回数"
     }
   ]
