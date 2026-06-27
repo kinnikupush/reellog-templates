@@ -344,7 +344,7 @@
       "confirmKind": "6"
     },
     {
-      "name": "天撃挑戦回数",
+      "name": "天撃回数",
       "categoryTag": "天撃成功率",
       "diffFlag": "none",
       "countKind": "count",
@@ -372,7 +372,7 @@
       "prob6": 0.608,
       "displayMode": "percent",
       "sortOrder": 77,
-      "parentItemName": "天撃挑戦回数"
+      "parentItemName": "天撃回数"
     }
   ]
 }
