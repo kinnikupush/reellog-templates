@@ -539,6 +539,51 @@
       "prob6": 0.00010681136045629814,
       "displayMode": "denominator",
       "sortOrder": 2
+    },
+    {
+      "name": "ベル＋チェリー付きリリベ",
+      "categoryTag": "いせかる目＋小役同時当選",
+      "diffFlag": "medium",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.000244140625,
+      "prob2": 0.000244140625,
+      "prob3": 0.0002777777777777778,
+      "prob4": 0.0003125,
+      "prob5": 0.00035095107741980766,
+      "prob6": 0.00038147554741741054,
+      "displayMode": "denominator",
+      "sortOrder": 0
+    },
+    {
+      "name": "弱スイカ＋中段リリベ",
+      "categoryTag": "いせかる目＋小役同時当選",
+      "diffFlag": "medium",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.000152587890625,
+      "prob2": 0.00016784719191647923,
+      "prob3": 0.00017241379310344826,
+      "prob4": 0.00017857142857142857,
+      "prob5": 0.00018310658634391078,
+      "prob6": 0.00022888008972099516,
+      "displayMode": "denominator",
+      "sortOrder": 1
+    },
+    {
+      "name": "特殊15枚役＋中段リリベ",
+      "categoryTag": "いせかる目＋小役同時当選",
+      "diffFlag": "big",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.000030517578125,
+      "prob2": 0.000030517578125,
+      "prob3": 0.00003846153846153846,
+      "prob4": 0.00004761904761904762,
+      "prob5": 0.00006103515625,
+      "prob6": 0.00009155245497908026,
+      "displayMode": "denominator",
+      "sortOrder": 2
     }
   ]
 }
