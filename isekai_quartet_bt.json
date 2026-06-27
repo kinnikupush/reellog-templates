@@ -58,7 +58,7 @@
       "prob5": 0.000961,
       "prob6": 0.001083,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 0
     },
     {
       "name": "単独BB",
@@ -523,7 +523,7 @@
       "prob5": 0.00006103515625,
       "prob6": 0.00006103515625,
       "displayMode": "denominator",
-      "sortOrder": 0
+      "sortOrder": 1
     },
     {
       "name": "強スイカ＋青7BB",
@@ -538,7 +538,7 @@
       "prob5": 0.00009155245497908026,
       "prob6": 0.00010681136045629814,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 2
     }
   ]
 }
