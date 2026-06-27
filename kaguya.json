@@ -42,7 +42,8 @@
       "prob5": 0.03,
       "prob6": 0.035,
       "displayMode": "percent",
-      "sortOrder": 10
+      "sortOrder": 10,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "紫枠",
@@ -137,7 +138,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 20
+      "sortOrder": 20,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "早坂愛",
