@@ -209,7 +209,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 700
+      "sortOrder": 700,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "全員集合",
@@ -224,7 +225,8 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 701
+      "sortOrder": 701,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "シルクハット",
