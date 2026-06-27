@@ -47,7 +47,7 @@
     },
     {
       "name": "BB直撃 (通常時)",
-      "categoryTag": "ボーナス",
+      "categoryTag": "BB直撃",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -512,7 +512,7 @@
     },
     {
       "name": "弱スイカ＋青7BB",
-      "categoryTag": "スイカ重複ボーナス",
+      "categoryTag": "BB直撃",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
@@ -527,7 +527,7 @@
     },
     {
       "name": "強スイカ＋青7BB",
-      "categoryTag": "スイカ重複ボーナス",
+      "categoryTag": "BB直撃",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
