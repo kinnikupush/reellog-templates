@@ -222,7 +222,7 @@
       "sortOrder": 33
     },
     {
-      "name": "終了 九郎",
+      "name": "九郎",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -238,7 +238,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "終了 琴子",
+      "name": "琴子",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -254,7 +254,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "終了 琴子&紗季",
+      "name": "琴子&紗季",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -270,7 +270,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "終了 六花",
+      "name": "六花",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -286,7 +286,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "終了 鋼人七瀬",
+      "name": "鋼人七瀬",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -302,7 +302,7 @@
       "sortOrder": 45
     },
     {
-      "name": "終了 雪女",
+      "name": "雪女",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -318,7 +318,7 @@
       "sortOrder": 46
     },
     {
-      "name": "終了 琴子&九朗(海岸)",
+      "name": "琴子&九朗(海岸)",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -334,7 +334,7 @@
       "sortOrder": 47
     },
     {
-      "name": "終了 琴子&九朗(ウェディング)",
+      "name": "琴子&九朗(ウェディング)",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
