@@ -76,7 +76,7 @@
       "sortOrder": 3
     },
     {
-      "name": "戦国乙女ボーナス継続 30G",
+      "name": "継続 30G",
       "categoryTag": "戦国乙女ボーナス",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -91,7 +91,7 @@
       "sortOrder": 11
     },
     {
-      "name": "戦国乙女ボーナス継続 40G",
+      "name": "継続 40G",
       "categoryTag": "戦国乙女ボーナス",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -106,7 +106,7 @@
       "sortOrder": 12
     },
     {
-      "name": "戦国乙女ボーナス継続 50G",
+      "name": "継続 50G",
       "categoryTag": "戦国乙女ボーナス",
       "diffFlag": "medium",
       "countKind": "suggest",
