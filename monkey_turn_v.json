@@ -111,7 +111,7 @@
       "parentItemName": "AT"
     },
     {
-      "name": "弱チェリー→EX",
+      "name": "弱チェリー→EXアイテム",
       "categoryTag": "EXアイテム当選率",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -127,7 +127,7 @@
       "parentItemName": "激走中 弱チェリー回数"
     },
     {
-      "name": "弱チャンス目→EX",
+      "name": "弱チャンス目→EXアイテム",
       "categoryTag": "EXアイテム当選率",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -143,7 +143,7 @@
       "parentItemName": "激走中 弱チャンス目回数"
     },
     {
-      "name": "強チャンス目→EX",
+      "name": "強チャンス目→EXアイテム",
       "categoryTag": "EXアイテム当選率",
       "diffFlag": "small",
       "countKind": "suggest",
