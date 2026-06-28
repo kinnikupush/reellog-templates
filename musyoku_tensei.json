@@ -61,7 +61,7 @@
       "sortOrder": 2
     },
     {
-      "name": "無職チャンス 44%表示",
+      "name": "44%表示",
       "categoryTag": "無職チャンス%",
       "diffFlag": "none",
       "countKind": "count",
@@ -77,7 +77,7 @@
       "sortOrder": 400
     },
     {
-      "name": "無職チャンス 55%表示",
+      "name": "55%表示",
       "categoryTag": "無職チャンス%",
       "diffFlag": "none",
       "countKind": "count",
@@ -93,7 +93,7 @@
       "sortOrder": 401
     },
     {
-      "name": "無職チャンス 66%表示",
+      "name": "66%表示",
       "categoryTag": "無職チャンス%",
       "diffFlag": "none",
       "countKind": "count",
