@@ -16,7 +16,7 @@
   "items": [
     {
       "name": "ボーナス",
-      "categoryTag": "AT/ART",
+      "categoryTag": "AT/ボーナス",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -32,7 +32,7 @@
     },
     {
       "name": "AT",
-      "categoryTag": "AT/ART",
+      "categoryTag": "AT/ボーナス",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
