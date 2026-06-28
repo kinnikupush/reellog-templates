@@ -424,8 +424,8 @@
       "sortOrder": 48
     },
     {
-      "name": "初回キャラ 高設定示唆 (イエヤス/ノブナガ/ウジマサ/ヨシテル)",
-      "categoryTag": "乙女シークレットトーク",
+      "name": "イエヤス/ノブナガ/ウジマサ/ヨシテル",
+      "categoryTag": "乙女シークレットトーク初回キャラ紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
       "reverseMode": false,
@@ -440,8 +440,8 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "初回キャラ 敵3人",
-      "categoryTag": "乙女シークレットトーク",
+      "name": "敵3人",
+      "categoryTag": "乙女シークレットトーク初回キャラ紹介",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -456,8 +456,8 @@
       "suggestBadgeLabel": "高設定 期待大"
     },
     {
-      "name": "初回キャラ オウガイ/ムラサメ/コタロウ",
-      "categoryTag": "乙女シークレットトーク",
+      "name": "オウガイ/ムラサメ/コタロウ",
+      "categoryTag": "乙女シークレットトーク初回キャラ紹介",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
