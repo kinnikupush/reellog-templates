@@ -296,7 +296,7 @@
       "sortOrder": 34
     },
     {
-      "name": "4人組(ヒデヨシ/カンスケ/シンゲン/ノブナガ)",
+      "name": "ヒデヨシ/カンスケ/シンゲン/ノブナガ",
       "categoryTag": "AT終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -312,7 +312,7 @@
       "suggestBadgeLabel": "設定3・5示唆"
     },
     {
-      "name": "4人組(ヨシモト/ケンシン/ウジマサ/イエヤス)",
+      "name": "ヨシモト/ケンシン/ウジマサ/イエヤス",
       "categoryTag": "AT終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -328,7 +328,7 @@
       "suggestBadgeLabel": "設定2・4示唆"
     },
     {
-      "name": "4人組(モトチカ/ソウリン/ドウセツ/モトナリ)",
+      "name": "モトチカ/ソウリン/ドウセツ/モトナリ",
       "categoryTag": "AT終了画面",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -344,7 +344,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "スタンプ「可」",
+      "name": "「可」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -360,7 +360,7 @@
       "sortOrder": 44
     },
     {
-      "name": "スタンプ「吉」",
+      "name": "「吉」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -376,7 +376,7 @@
       "sortOrder": 45
     },
     {
-      "name": "スタンプ「良」",
+      "name": "「良」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -392,7 +392,7 @@
       "sortOrder": 46
     },
     {
-      "name": "スタンプ「優」",
+      "name": "「優」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -408,7 +408,7 @@
       "sortOrder": 47
     },
     {
-      "name": "スタンプ「極」",
+      "name": "「極」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
