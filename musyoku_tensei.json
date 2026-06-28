@@ -74,7 +74,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 300
+      "sortOrder": 400
     },
     {
       "name": "無職チャンス 55%表示",
@@ -90,7 +90,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 301
+      "sortOrder": 401
     },
     {
       "name": "無職チャンス 66%表示",
@@ -106,7 +106,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 302
+      "sortOrder": 402
     },
     {
       "name": "ヒロイン集合",
@@ -122,7 +122,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 400
+      "sortOrder": 500
     },
     {
       "name": "ヒトガミ",
@@ -138,7 +138,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 401
+      "sortOrder": 501
     },
     {
       "name": "前世の男",
@@ -154,7 +154,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 402
+      "sortOrder": 502
     },
     {
       "name": "オルステッド",
@@ -170,7 +170,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 403
+      "sortOrder": 503
     },
     {
       "name": "ストーリー 高設定弱 (第2/4/7/12話)",
@@ -185,7 +185,7 @@
       "prob5": 0.08,
       "prob6": 0.08,
       "displayMode": "percent",
-      "sortOrder": 500,
+      "sortOrder": 600,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -201,7 +201,7 @@
       "prob5": 0.07,
       "prob6": 0.09,
       "displayMode": "percent",
-      "sortOrder": 501,
+      "sortOrder": 601,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -218,7 +218,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 502
+      "sortOrder": 602
     },
     {
       "name": "ストーリー 第8話「ターニングポイント1」",
@@ -234,7 +234,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 503
+      "sortOrder": 603
     },
     {
       "name": "ストーリー 第21話「ターニングポイント2」",
@@ -250,7 +250,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 504
+      "sortOrder": 604
     },
     {
       "name": "師弟(白枠)",
@@ -265,7 +265,7 @@
       "prob5": 0.2,
       "prob6": 0.3,
       "displayMode": "percent",
-      "sortOrder": 600,
+      "sortOrder": 700,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -281,7 +281,7 @@
       "prob5": 0.08,
       "prob6": 0.08,
       "displayMode": "percent",
-      "sortOrder": 601,
+      "sortOrder": 701,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -297,7 +297,7 @@
       "prob5": 0.09,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 602,
+      "sortOrder": 702,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -314,7 +314,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 603
+      "sortOrder": 703
     },
     {
       "name": "絆(銀枠)",
@@ -330,7 +330,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 604
+      "sortOrder": 704
     },
     {
       "name": "オルステッド(金枠)",
@@ -346,7 +346,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 605
+      "sortOrder": 705
     },
     {
       "name": "222OVER",
@@ -362,7 +362,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 700
+      "sortOrder": 800
     },
     {
       "name": "246OVER",
@@ -378,7 +378,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 701
+      "sortOrder": 801
     },
     {
       "name": "333OVER",
@@ -394,7 +394,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 702
+      "sortOrder": 802
     },
     {
       "name": "444OVER",
@@ -410,7 +410,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 703
+      "sortOrder": 803
     },
     {
       "name": "456OVER",
@@ -426,7 +426,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 704
+      "sortOrder": 804
     },
     {
       "name": "555OVER",
@@ -442,7 +442,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 705
+      "sortOrder": 805
     },
     {
       "name": "666OVER",
@@ -458,7 +458,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 706
+      "sortOrder": 806
     },
     {
       "name": "EDキャラ ルーデウス (大きい杖)",
@@ -473,7 +473,7 @@
       "prob5": 0.3,
       "prob6": 0.2,
       "displayMode": "percent",
-      "sortOrder": 800,
+      "sortOrder": 900,
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -489,7 +489,7 @@
       "prob5": 0.2,
       "prob6": 0.3,
       "displayMode": "percent",
-      "sortOrder": 801,
+      "sortOrder": 901,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -506,7 +506,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 802
+      "sortOrder": 902
     },
     {
       "name": "EDキャラ シルフィエット",
@@ -522,7 +522,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 803
+      "sortOrder": 903
     },
     {
       "name": "EDキャラ エリス",
@@ -538,7 +538,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 804
+      "sortOrder": 904
     },
     {
       "name": "EDキャラ ゼニス",
@@ -553,7 +553,7 @@
       "prob5": 0.08,
       "prob6": 0.09,
       "displayMode": "percent",
-      "sortOrder": 805,
+      "sortOrder": 905,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -569,7 +569,7 @@
       "prob5": 0.08,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 806,
+      "sortOrder": 906,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -586,7 +586,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 807
+      "sortOrder": 907
     },
     {
       "name": "EDキャラ ヒトガミ",
@@ -602,7 +602,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 808
+      "sortOrder": 908
     },
     {
       "name": "EDキャラ 前世の男",
@@ -618,7 +618,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 809
+      "sortOrder": 909
     },
     {
       "name": "EDキャラ オルステッド",
@@ -634,7 +634,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 810
+      "sortOrder": 910
     },
     {
       "name": "銅",
@@ -650,7 +650,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 900
+      "sortOrder": 1000
     },
     {
       "name": "銀",
@@ -666,7 +666,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 901
+      "sortOrder": 1001
     },
     {
       "name": "金",
@@ -682,7 +682,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 902
+      "sortOrder": 1002
     },
     {
       "name": "虎柄",
@@ -698,7 +698,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 903
+      "sortOrder": 1003
     },
     {
       "name": "虹",
@@ -714,7 +714,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 904
+      "sortOrder": 1004
     },
     {
       "name": "AT中G数",
@@ -792,6 +792,38 @@
       "displayMode": "percent",
       "sortOrder": 202,
       "parentItemName": "ヒトガミの空間 移行"
+    },
+    {
+      "name": "ステージチェンジ回数",
+      "categoryTag": "ステージ振り分け",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 300
+    },
+    {
+      "name": "シーローン王国 移行",
+      "categoryTag": "ステージ振り分け",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.0625,
+      "prob2": 0.0703,
+      "prob3": 0.0781,
+      "prob4": 0.0859,
+      "prob5": 0.0938,
+      "prob6": 0.1094,
+      "displayMode": "percent",
+      "sortOrder": 301,
+      "parentItemName": "ステージチェンジ回数",
+      "suggestBadgeLabel": "高設定示唆"
     }
   ]
 }
