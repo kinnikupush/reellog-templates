@@ -398,7 +398,7 @@
       "sortOrder": 43
     },
     {
-      "name": "おみくじ 青",
+      "name": "青",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -414,7 +414,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "おみくじ 緑",
+      "name": "緑",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -430,7 +430,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "おみくじ 赤",
+      "name": "赤",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -446,7 +446,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "おみくじ 銅",
+      "name": "銅",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "none",
       "countKind": "count",
@@ -462,7 +462,7 @@
       "sortOrder": 54
     },
     {
-      "name": "おみくじ 銀",
+      "name": "銀",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "none",
       "countKind": "count",
@@ -478,7 +478,7 @@
       "sortOrder": 55
     },
     {
-      "name": "おみくじ 金",
+      "name": "金",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "none",
       "countKind": "count",
@@ -494,7 +494,7 @@
       "sortOrder": 56
     },
     {
-      "name": "おみくじ 紅葉",
+      "name": "紅葉",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "none",
       "countKind": "count",
@@ -510,7 +510,7 @@
       "sortOrder": 57
     },
     {
-      "name": "おみくじ 虹",
+      "name": "虹",
       "categoryTag": "アイルーおみくじ",
       "diffFlag": "none",
       "countKind": "count",
