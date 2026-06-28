@@ -15,7 +15,7 @@
   },
   "items": [
     {
-      "name": "ボーナス合算",
+      "name": "ボーナス",
       "categoryTag": "AT/ART",
       "diffFlag": "medium",
       "countKind": "count",
