@@ -430,7 +430,7 @@
       "sortOrder": 54
     },
     {
-      "name": "EDボイス 岩永琴子(青)",
+      "name": "岩永琴子(青)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -446,7 +446,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "EDボイス 桜川九朗(黄)",
+      "name": "桜川九朗(黄)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -462,7 +462,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "EDボイス 弓原紗季(緑)",
+      "name": "弓原紗季(緑)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -478,7 +478,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "EDボイス 雪女(紫)",
+      "name": "雪女(紫)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "none",
       "countKind": "count",
@@ -494,7 +494,7 @@
       "sortOrder": 64
     },
     {
-      "name": "EDボイス 桜川六花(赤)",
+      "name": "桜川六花(赤)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "none",
       "countKind": "count",
@@ -510,7 +510,7 @@
       "sortOrder": 65
     },
     {
-      "name": "EDボイス 岩永琴子(虹)",
+      "name": "岩永琴子(虹)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "none",
       "countKind": "count",
