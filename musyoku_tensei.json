@@ -822,8 +822,7 @@
       "prob6": 0.1094,
       "displayMode": "percent",
       "sortOrder": 301,
-      "parentItemName": "ステージチェンジ回数",
-      "suggestBadgeLabel": "高設定示唆"
+      "parentItemName": "ステージチェンジ回数"
     }
   ]
 }
