@@ -108,6 +108,22 @@
       "displayMode": "denominator",
       "sortOrder": 14,
       "confirmKind": "6"
+    },
+    {
+      "name": "Z-ZONE昇格",
+      "categoryTag": "Z-ZONE昇格抽選",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.012,
+      "prob2": 0.01,
+      "prob3": 0.042,
+      "prob4": 0.01,
+      "prob5": 0.116,
+      "prob6": 0.01,
+      "displayMode": "percent",
+      "sortOrder": 15,
+      "parentItemName": "AT"
     }
   ]
 }
