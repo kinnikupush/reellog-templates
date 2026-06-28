@@ -461,7 +461,7 @@
       "sortOrder": 806
     },
     {
-      "name": "EDキャラ ルーデウス (大きい杖)",
+      "name": "ルーデウス (大きい杖)",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -477,7 +477,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "EDキャラ ルーデウス (小さい杖)",
+      "name": "ルーデウス (小さい杖)",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -493,7 +493,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "EDキャラ ロキシー",
+      "name": "ロキシー",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
@@ -509,7 +509,7 @@
       "sortOrder": 902
     },
     {
-      "name": "EDキャラ シルフィエット",
+      "name": "シルフィエット",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
@@ -525,7 +525,7 @@
       "sortOrder": 903
     },
     {
-      "name": "EDキャラ エリス",
+      "name": "エリス",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
@@ -541,7 +541,7 @@
       "sortOrder": 904
     },
     {
-      "name": "EDキャラ ゼニス",
+      "name": "ゼニス",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -557,7 +557,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "EDキャラ パウロ",
+      "name": "パウロ",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -573,7 +573,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "EDキャラ キリシカ",
+      "name": "キリシカ",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
@@ -589,7 +589,7 @@
       "sortOrder": 907
     },
     {
-      "name": "EDキャラ ヒトガミ",
+      "name": "ヒトガミ",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
@@ -605,7 +605,7 @@
       "sortOrder": 908
     },
     {
-      "name": "EDキャラ 前世の男",
+      "name": "前世の男",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
@@ -621,7 +621,7 @@
       "sortOrder": 909
     },
     {
-      "name": "EDキャラ オルステッド",
+      "name": "オルステッド",
       "categoryTag": "エンディングキャラ",
       "diffFlag": "none",
       "countKind": "count",
