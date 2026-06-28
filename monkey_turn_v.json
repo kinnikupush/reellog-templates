@@ -31,7 +31,7 @@
     },
     {
       "name": "5枚役",
-      "categoryTag": "AT/ART",
+      "categoryTag": "小役",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
@@ -42,7 +42,7 @@
       "prob5": 0.0408,
       "prob6": 0.044385,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 100
     },
     {
       "name": "弱チェリー→直撃",
@@ -57,7 +57,7 @@
       "prob5": 0.004,
       "prob6": 0.004,
       "displayMode": "percent",
-      "sortOrder": 1,
+      "sortOrder": 201,
       "parentItemName": "弱チェリー回数",
       "confirmKind": "4以上"
     },
@@ -74,7 +74,7 @@
       "prob5": 0.02,
       "prob6": 0.031,
       "displayMode": "percent",
-      "sortOrder": 3,
+      "sortOrder": 203,
       "parentItemName": "弱チャンス目回数",
       "confirmKind": "4以上"
     },
@@ -91,7 +91,7 @@
       "prob5": 0.039,
       "prob6": 0.063,
       "displayMode": "percent",
-      "sortOrder": 5,
+      "sortOrder": 205,
       "parentItemName": "強レア役回数"
     },
     {
@@ -107,7 +107,7 @@
       "prob5": 0.03,
       "prob6": 0.037,
       "displayMode": "percent",
-      "sortOrder": 6,
+      "sortOrder": 206,
       "parentItemName": "AT"
     },
     {
@@ -123,7 +123,7 @@
       "prob5": 0.391,
       "prob6": 0.43,
       "displayMode": "percent",
-      "sortOrder": 1,
+      "sortOrder": 301,
       "parentItemName": "激走中 弱チェリー回数"
     },
     {
@@ -139,7 +139,7 @@
       "prob5": 0.406,
       "prob6": 0.469,
       "displayMode": "percent",
-      "sortOrder": 3,
+      "sortOrder": 303,
       "parentItemName": "激走中 弱チャンス目回数"
     },
     {
@@ -155,7 +155,7 @@
       "prob5": 0.625,
       "prob6": 0.664,
       "displayMode": "percent",
-      "sortOrder": 5,
+      "sortOrder": 305,
       "parentItemName": "激走中 強チャンス目回数"
     },
     {
@@ -171,7 +171,7 @@
       "prob5": 0.7,
       "prob6": 0.4,
       "displayMode": "percent",
-      "sortOrder": 50,
+      "sortOrder": 400,
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -187,7 +187,7 @@
       "prob5": 0.3,
       "prob6": 0.6,
       "displayMode": "percent",
-      "sortOrder": 51,
+      "sortOrder": 401,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -203,7 +203,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 52,
+      "sortOrder": 402,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -219,7 +219,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 53,
+      "sortOrder": 403,
       "confirmKind": "4以上"
     },
     {
@@ -235,7 +235,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 60,
+      "sortOrder": 500,
       "confirmKind": "偶数"
     },
     {
@@ -251,7 +251,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 61,
+      "sortOrder": 501,
       "confirmKind": "4以上"
     },
     {
@@ -267,7 +267,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 62,
+      "sortOrder": 502,
       "confirmKind": "6"
     },
     {
@@ -283,7 +283,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 70,
+      "sortOrder": 600,
       "confirmKind": "5以上"
     },
     {
@@ -299,7 +299,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 71,
+      "sortOrder": 601,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -315,7 +315,7 @@
       "prob5": 0.408,
       "prob6": 0.405,
       "displayMode": "percent",
-      "sortOrder": 72,
+      "sortOrder": 602,
       "suggestBadgeLabel": "高設定示唆"
     },
     {
@@ -331,7 +331,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 73,
+      "sortOrder": 603,
       "confirmKind": "5以上"
     },
     {
@@ -347,7 +347,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 80,
+      "sortOrder": 700,
       "confirmKind": "4以上"
     },
     {
@@ -363,7 +363,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 81,
+      "sortOrder": 701,
       "confirmKind": "6"
     },
     {
@@ -379,7 +379,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 82,
+      "sortOrder": 702,
       "confirmKind": "5以上"
     },
     {
@@ -395,7 +395,7 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 90,
+      "sortOrder": 800,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -411,7 +411,7 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 91,
+      "sortOrder": 801,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -427,7 +427,7 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 92,
+      "sortOrder": 802,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -443,7 +443,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 93,
+      "sortOrder": 803,
       "confirmKind": "2以上"
     },
     {
@@ -459,7 +459,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 94,
+      "sortOrder": 804,
       "confirmKind": "4以上"
     },
     {
@@ -475,7 +475,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 95,
+      "sortOrder": 805,
       "confirmKind": "5以上"
     },
     {
@@ -491,7 +491,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 96,
+      "sortOrder": 806,
       "confirmKind": "6"
     },
     {
@@ -507,7 +507,7 @@
       "prob5": 0.045,
       "prob6": 0.045,
       "displayMode": "percent",
-      "sortOrder": 100,
+      "sortOrder": 900,
       "parentItemName": "AT"
     },
     {
@@ -523,7 +523,7 @@
       "prob5": 0.15,
       "prob6": 0.35,
       "displayMode": "percent",
-      "sortOrder": 110,
+      "sortOrder": 1000,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -539,7 +539,7 @@
       "prob5": 0.2,
       "prob6": 0.2,
       "displayMode": "percent",
-      "sortOrder": 111,
+      "sortOrder": 1001,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -555,7 +555,7 @@
       "prob5": 0.1,
       "prob6": 0.013,
       "displayMode": "percent",
-      "sortOrder": 112,
+      "sortOrder": 1002,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -571,7 +571,7 @@
       "prob5": 0.0001,
       "prob6": 0.013,
       "displayMode": "percent",
-      "sortOrder": 113,
+      "sortOrder": 1003,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -587,7 +587,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 114,
+      "sortOrder": 1004,
       "confirmKind": "4以上"
     },
     {
@@ -603,7 +603,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 115,
+      "sortOrder": 1005,
       "confirmKind": "5以上"
     },
     {
@@ -619,7 +619,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 116,
+      "sortOrder": 1006,
       "confirmKind": "6"
     },
     {
@@ -635,7 +635,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 0
+      "sortOrder": 200
     },
     {
       "name": "弱チャンス目回数",
@@ -650,7 +650,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 202
     },
     {
       "name": "強レア役回数",
@@ -665,7 +665,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 4
+      "sortOrder": 204
     },
     {
       "name": "激走中 弱チェリー回数",
@@ -680,7 +680,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 0
+      "sortOrder": 300
     },
     {
       "name": "激走中 弱チャンス目回数",
@@ -695,7 +695,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 302
     },
     {
       "name": "激走中 強チャンス目回数",
@@ -710,7 +710,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 4
+      "sortOrder": 304
     }
   ]
 }
