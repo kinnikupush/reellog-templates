@@ -489,7 +489,7 @@
       "confirmKind": "5以上"
     },
     {
-      "name": "⑤逆順出現",
+      "name": "逆順出現",
       "categoryTag": "キャラ順番パターン",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -505,7 +505,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "⑥ももこ→やちよ→鶴乃→みふゆ→みたま",
+      "name": "ももこ→やちよ→鶴乃→みふゆ→みたま",
       "categoryTag": "キャラ順番パターン",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -521,7 +521,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "⑦いろは→うい→灯花→ねむ→アリナ",
+      "name": "いろは→うい→灯花→ねむ→アリナ",
       "categoryTag": "キャラ順番パターン",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -537,7 +537,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "⑧まどか→さやか→マミ→杏子 (4キャラのみ)",
+      "name": "まどか→さやか→マミ→杏子 (4キャラのみ)",
       "categoryTag": "キャラ順番パターン",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -553,7 +553,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "⑨小さいキュゥべえで終わる",
+      "name": "小さいキュゥべえで終わる",
       "categoryTag": "キャラ順番パターン",
       "diffFlag": "none",
       "countKind": "count",
