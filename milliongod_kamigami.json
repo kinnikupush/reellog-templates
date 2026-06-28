@@ -16,7 +16,7 @@
   "items": [
     {
       "name": "AT",
-      "categoryTag": "AT/ART",
+      "categoryTag": "AT",
       "diffFlag": "big",
       "countKind": "count",
       "reverseMode": false,
@@ -42,7 +42,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 10,
+      "sortOrder": 200,
       "confirmKind": "2以上"
     },
     {
@@ -58,7 +58,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 11,
+      "sortOrder": 201,
       "confirmKind": "3以上"
     },
     {
@@ -74,7 +74,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 12,
+      "sortOrder": 202,
       "confirmKind": "4以上"
     },
     {
@@ -90,7 +90,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 13,
+      "sortOrder": 203,
       "confirmKind": "5以上"
     },
     {
@@ -106,7 +106,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 14,
+      "sortOrder": 204,
       "confirmKind": "6"
     },
     {
@@ -122,7 +122,7 @@
       "prob5": 0.116,
       "prob6": 0.01,
       "displayMode": "percent",
-      "sortOrder": 15,
+      "sortOrder": 100,
       "parentItemName": "AT"
     }
   ]
