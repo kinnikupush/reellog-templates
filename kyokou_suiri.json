@@ -254,21 +254,6 @@
       "sortOrder": 33
     },
     {
-      "name": "虚構推理ボーナス終了画面 確認回数",
-      "categoryTag": "ボーナス終了画面",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 40
-    },
-    {
       "name": "終了 九郎",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
@@ -282,7 +267,6 @@
       "prob6": 0.2,
       "displayMode": "percent",
       "sortOrder": 41,
-      "parentItemName": "虚構推理ボーナス終了画面 確認回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -299,7 +283,6 @@
       "prob6": 0.3,
       "displayMode": "percent",
       "sortOrder": 42,
-      "parentItemName": "虚構推理ボーナス終了画面 確認回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -316,7 +299,6 @@
       "prob6": 0.15,
       "displayMode": "percent",
       "sortOrder": 43,
-      "parentItemName": "虚構推理ボーナス終了画面 確認回数",
       "suggestBadgeLabel": "高設定示唆"
     },
     {
@@ -333,7 +315,6 @@
       "prob6": 0.16,
       "displayMode": "percent",
       "sortOrder": 44,
-      "parentItemName": "虚構推理ボーナス終了画面 確認回数",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -481,21 +462,6 @@
       "sortOrder": 54
     },
     {
-      "name": "エンディングボイス 確認回数",
-      "categoryTag": "エンディングボイス",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 60
-    },
-    {
       "name": "EDボイス 岩永琴子(青)",
       "categoryTag": "エンディングボイス",
       "diffFlag": "medium",
@@ -509,7 +475,6 @@
       "prob6": 0.3,
       "displayMode": "percent",
       "sortOrder": 61,
-      "parentItemName": "エンディングボイス 確認回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -526,7 +491,6 @@
       "prob6": 0.25,
       "displayMode": "percent",
       "sortOrder": 62,
-      "parentItemName": "エンディングボイス 確認回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
@@ -543,7 +507,6 @@
       "prob6": 0.15,
       "displayMode": "percent",
       "sortOrder": 63,
-      "parentItemName": "エンディングボイス 確認回数",
       "suggestBadgeLabel": "高設定示唆"
     },
     {
