@@ -46,7 +46,7 @@
       "sortOrder": 1
     },
     {
-      "name": "CZ出現率",
+      "name": "CZ",
       "categoryTag": "CZ",
       "diffFlag": "medium",
       "countKind": "count",
@@ -61,7 +61,7 @@
       "sortOrder": 2
     },
     {
-      "name": "初回CZ EP1スタート",
+      "name": "EP1スタート",
       "categoryTag": "CZ初回エピソード",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -77,7 +77,7 @@
       "parentItemName": "初回CZ当選 回数"
     },
     {
-      "name": "初回CZ EP2スタート",
+      "name": "EP2スタート",
       "categoryTag": "CZ初回エピソード",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -94,7 +94,7 @@
       "parentItemName": "初回CZ当選 回数"
     },
     {
-      "name": "初回CZ EP3スタート",
+      "name": "EP3スタート",
       "categoryTag": "CZ初回エピソード",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -111,7 +111,7 @@
       "parentItemName": "初回CZ当選 回数"
     },
     {
-      "name": "初回CZ EP4スタート",
+      "name": "EP4スタート",
       "categoryTag": "CZ初回エピソード",
       "diffFlag": "none",
       "countKind": "count",
@@ -127,7 +127,7 @@
       "sortOrder": 15
     },
     {
-      "name": "初回CZ EP5スタート",
+      "name": "EP5スタート",
       "categoryTag": "CZ初回エピソード",
       "diffFlag": "none",
       "countKind": "count",
