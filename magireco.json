@@ -98,14 +98,15 @@
       "diffFlag": "small",
       "countKind": "suggest",
       "reverseMode": false,
-      "prob1": 0.5,
+      "prob1": 1.5,
       "prob2": 0.5,
       "prob3": 1.5,
       "prob4": 0.5,
       "prob5": 1.5,
-      "prob6": 1.5,
+      "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 20
+      "sortOrder": 20,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "いろは＆さな",
@@ -225,14 +226,15 @@
       "diffFlag": "small",
       "countKind": "suggest",
       "reverseMode": false,
-      "prob1": 0.5,
+      "prob1": 1.5,
       "prob2": 0.5,
       "prob3": 1.5,
       "prob4": 0.5,
       "prob5": 1.5,
-      "prob6": 1.5,
+      "prob6": 0.5,
       "displayMode": "percent",
-      "sortOrder": 30
+      "sortOrder": 30,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "みかづき荘メンバー",
