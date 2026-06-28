@@ -46,7 +46,7 @@
       "sortOrder": 1
     },
     {
-      "name": "確定画面 奇数示唆 (ワドウ丸/ルーク/HARUTO)",
+      "name": "奇数 (ワドウ丸/ルーク/HARUTO)",
       "categoryTag": "ボーナス確定画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -62,7 +62,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "確定画面 偶数示唆 (アッシュ/Mimi★chan/つばき)",
+      "name": "偶数 (アッシュ/Mimi★chan/つばき)",
       "categoryTag": "ボーナス確定画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -78,7 +78,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "確定画面 YOU",
+      "name": "YOU",
       "categoryTag": "ボーナス確定画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -94,7 +94,7 @@
       "suggestBadgeLabel": "高設定示唆"
     },
     {
-      "name": "確定画面 Lara＆ミランダ＆隊長",
+      "name": "Lara＆ミランダ＆隊長",
       "categoryTag": "ボーナス確定画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -110,7 +110,7 @@
       "sortOrder": 14
     },
     {
-      "name": "終了 奇数示唆 (ワドウ丸/ルーク/HARUTO)",
+      "name": "奇数 (ワドウ丸/ルーク/HARUTO)",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -126,7 +126,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "終了 偶数示唆 (アッシュ/Mimi★chan)",
+      "name": "偶数 (アッシュ/Mimi★chan)",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -142,7 +142,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "終了 つばき",
+      "name": "つばき",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -158,7 +158,7 @@
       "suggestBadgeLabel": "設定1・4・5・6示唆"
     },
     {
-      "name": "終了 YOU＆オトモ",
+      "name": "YOU＆オトモ",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -174,7 +174,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "終了 Lara＆ミランダ＆隊長",
+      "name": "Lara＆ミランダ＆隊長",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -190,7 +190,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "終了 イオリ＆ヨモギ",
+      "name": "イオリ＆ヨモギ",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -206,7 +206,7 @@
       "sortOrder": 26
     },
     {
-      "name": "終了 ウツシ＆フゲン",
+      "name": "ウツシ＆フゲン",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -222,7 +222,7 @@
       "sortOrder": 27
     },
     {
-      "name": "終了 全員集合",
+      "name": "全員集合",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -238,7 +238,7 @@
       "sortOrder": 28
     },
     {
-      "name": "終了 ヒノエ＆ミノト＆エンタライオン",
+      "name": "ヒノエ＆ミノト＆エンタライオン",
       "categoryTag": "ボーナス終了画面",
       "diffFlag": "none",
       "countKind": "count",
