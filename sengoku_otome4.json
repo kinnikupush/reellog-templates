@@ -152,7 +152,7 @@
       "parentItemName": "オウガイバトル初戦 回数"
     },
     {
-      "name": "エピソード カンスケ",
+      "name": "カンスケ",
       "categoryTag": "エピソードボーナス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -168,7 +168,7 @@
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
-      "name": "エピソード ソウリン",
+      "name": "ソウリン",
       "categoryTag": "エピソードボーナス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -184,7 +184,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "エピソード ウジマサ",
+      "name": "ウジマサ",
       "categoryTag": "エピソードボーナス",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -200,7 +200,7 @@
       "suggestBadgeLabel": "高設定示唆＋奇数示唆"
     },
     {
-      "name": "エピソード ヒデアキ",
+      "name": "ヒデアキ",
       "categoryTag": "エピソードボーナス",
       "diffFlag": "medium",
       "countKind": "suggest",
