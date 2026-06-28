@@ -61,21 +61,6 @@
       "sortOrder": 2
     },
     {
-      "name": "初回CZ当選 回数",
-      "categoryTag": "CZ初回エピソード",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 10
-    },
-    {
       "name": "初回CZ EP1スタート",
       "categoryTag": "CZ初回エピソード",
       "diffFlag": "small",
@@ -88,8 +73,7 @@
       "prob5": 0.797,
       "prob6": 0.761,
       "displayMode": "percent",
-      "sortOrder": 11,
-      "parentItemName": "初回CZ当選 回数"
+      "sortOrder": 11
     },
     {
       "name": "初回CZ EP2スタート",
@@ -105,7 +89,6 @@
       "prob6": 0.139,
       "displayMode": "percent",
       "sortOrder": 12,
-      "parentItemName": "初回CZ当選 回数",
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -122,7 +105,6 @@
       "prob6": 0.083,
       "displayMode": "percent",
       "sortOrder": 13,
-      "parentItemName": "初回CZ当選 回数",
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -189,21 +171,6 @@
       "parentItemName": "CZエピソード突入 回数"
     },
     {
-      "name": "あやかしキャラ 確認回数",
-      "categoryTag": "あやかしボーナス中キャラ",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 30
-    },
-    {
       "name": "岩永琴子",
       "categoryTag": "あやかしボーナス中キャラ",
       "diffFlag": "medium",
@@ -217,7 +184,6 @@
       "prob6": 0.4,
       "displayMode": "percent",
       "sortOrder": 31,
-      "parentItemName": "あやかしキャラ 確認回数",
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -234,7 +200,6 @@
       "prob6": 0.3,
       "displayMode": "percent",
       "sortOrder": 32,
-      "parentItemName": "あやかしキャラ 確認回数",
       "suggestBadgeLabel": "奇数設定示唆"
     },
     {
