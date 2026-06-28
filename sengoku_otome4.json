@@ -344,7 +344,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "可",
+      "name": "「可」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -360,7 +360,7 @@
       "sortOrder": 44
     },
     {
-      "name": "吉",
+      "name": "「吉」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -376,7 +376,7 @@
       "sortOrder": 45
     },
     {
-      "name": "良",
+      "name": "「良」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -392,7 +392,7 @@
       "sortOrder": 46
     },
     {
-      "name": "優",
+      "name": "「優」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
@@ -408,7 +408,7 @@
       "sortOrder": 47
     },
     {
-      "name": "極",
+      "name": "「極」",
       "categoryTag": "AT終了画面",
       "diffFlag": "none",
       "countKind": "count",
