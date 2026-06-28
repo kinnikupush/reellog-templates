@@ -171,7 +171,8 @@
       "prob5": 0.7,
       "prob6": 0.4,
       "displayMode": "percent",
-      "sortOrder": 50
+      "sortOrder": 50,
+      "suggestBadgeLabel": "奇数設定示唆"
     },
     {
       "name": "「この気配は!?」 (青)",
@@ -186,7 +187,8 @@
       "prob5": 0.3,
       "prob6": 0.6,
       "displayMode": "percent",
-      "sortOrder": 51
+      "sortOrder": 51,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "榎木「おつかれ」 (赤)",
@@ -201,52 +203,56 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 52
+      "sortOrder": 52,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "榎木「これが艇王と呼ばれる私のレースだ！」 (紫)",
       "categoryTag": "激走チャージ終了時",
-      "diffFlag": "big",
-      "countKind": "suggest",
+      "diffFlag": "none",
+      "countKind": "count",
       "reverseMode": false,
-      "prob1": 0.0001,
-      "prob2": 0.0001,
-      "prob3": 0.0001,
-      "prob4": 1,
-      "prob5": 1,
-      "prob6": 1,
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 53
+      "sortOrder": 53,
+      "confirmKind": "4以上"
     },
     {
       "name": "ホロ加工の銀",
       "categoryTag": "舟券",
-      "diffFlag": "medium",
-      "countKind": "suggest",
+      "diffFlag": "none",
+      "countKind": "count",
       "reverseMode": false,
-      "prob1": 0.0001,
-      "prob2": 0.005,
-      "prob3": 0.005,
-      "prob4": 0.006,
-      "prob5": 0.0001,
-      "prob6": 0.006,
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 60
+      "sortOrder": 60,
+      "confirmKind": "偶数"
     },
     {
       "name": "ホロ加工の金",
       "categoryTag": "舟券",
-      "diffFlag": "big",
-      "countKind": "suggest",
+      "diffFlag": "none",
+      "countKind": "count",
       "reverseMode": false,
-      "prob1": 0.0001,
-      "prob2": 0.0001,
-      "prob3": 0.0001,
-      "prob4": 0.002,
-      "prob5": 0.005,
-      "prob6": 0.003,
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 61
+      "sortOrder": 61,
+      "confirmKind": "4以上"
     },
     {
       "name": "虹 (ケロット柄)",
@@ -293,7 +299,8 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 71
+      "sortOrder": 71,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "上位AT ドレス",
@@ -308,7 +315,8 @@
       "prob5": 0.408,
       "prob6": 0.405,
       "displayMode": "percent",
-      "sortOrder": 72
+      "sortOrder": 72,
+      "suggestBadgeLabel": "高設定示唆"
     },
     {
       "name": "上位AT 波多野＆青島",
@@ -387,7 +395,8 @@
       "prob5": 0.5,
       "prob6": 1.5,
       "displayMode": "percent",
-      "sortOrder": 90
+      "sortOrder": 90,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "SGメダル 黄",
@@ -402,7 +411,8 @@
       "prob5": 2,
       "prob6": 2.5,
       "displayMode": "percent",
-      "sortOrder": 91
+      "sortOrder": 91,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "SGメダル 黒",
@@ -417,7 +427,8 @@
       "prob5": 2.5,
       "prob6": 3.5,
       "displayMode": "percent",
-      "sortOrder": 92
+      "sortOrder": 92,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "ケロットトロフィー 銅",
@@ -512,7 +523,8 @@
       "prob5": 0.15,
       "prob6": 0.35,
       "displayMode": "percent",
-      "sortOrder": 110
+      "sortOrder": 110,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "波多野「いい感じだ！」 (黄)",
@@ -527,7 +539,8 @@
       "prob5": 0.2,
       "prob6": 0.2,
       "displayMode": "percent",
-      "sortOrder": 111
+      "sortOrder": 111,
+      "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
       "name": "ありさ「やるじゃない」 (緑)",
@@ -542,7 +555,8 @@
       "prob5": 0.1,
       "prob6": 0.013,
       "displayMode": "percent",
-      "sortOrder": 112
+      "sortOrder": 112,
+      "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
       "name": "榎木「おつかれ」 (赤)",
@@ -557,22 +571,24 @@
       "prob5": 0.0001,
       "prob6": 0.013,
       "displayMode": "percent",
-      "sortOrder": 113
+      "sortOrder": 113,
+      "suggestBadgeLabel": "偶数設定示唆"
     },
     {
       "name": "榎木「これが艇王と呼ばれる私のレースだ！」 (紫)",
       "categoryTag": "ED中ボイス",
-      "diffFlag": "big",
-      "countKind": "suggest",
+      "diffFlag": "none",
+      "countKind": "count",
       "reverseMode": false,
-      "prob1": 0.0001,
-      "prob2": 0.0001,
-      "prob3": 0.012,
-      "prob4": 0.025,
-      "prob5": 0.025,
-      "prob6": 0.013,
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
       "displayMode": "percent",
-      "sortOrder": 114
+      "sortOrder": 114,
+      "confirmKind": "4以上"
     },
     {
       "name": "青島「きたきたきたぁーー！」 (紫)",
