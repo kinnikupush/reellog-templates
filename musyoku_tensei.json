@@ -173,7 +173,7 @@
       "sortOrder": 503
     },
     {
-      "name": "ストーリー 高設定弱 (第2/4/7/12話)",
+      "name": "第2/4/7/12話",
       "categoryTag": "魔術ボーナス ストーリー紹介",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -189,7 +189,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "ストーリー 高設定強 (第14/16/23話)",
+      "name": "第14/16/23話",
       "categoryTag": "魔術ボーナス ストーリー紹介",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -205,7 +205,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "ストーリー 第1話「無職転生」",
+      "name": "第1話「無職転生」",
       "categoryTag": "魔術ボーナス ストーリー紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -221,7 +221,7 @@
       "sortOrder": 602
     },
     {
-      "name": "ストーリー 第8話「ターニングポイント1」",
+      "name": "第8話「ターニングポイント1」",
       "categoryTag": "魔術ボーナス ストーリー紹介",
       "diffFlag": "none",
       "countKind": "count",
@@ -237,7 +237,7 @@
       "sortOrder": 603
     },
     {
-      "name": "ストーリー 第21話「ターニングポイント2」",
+      "name": "第21話「ターニングポイント2」",
       "categoryTag": "魔術ボーナス ストーリー紹介",
       "diffFlag": "none",
       "countKind": "count",
