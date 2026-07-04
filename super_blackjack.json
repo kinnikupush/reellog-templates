@@ -62,21 +62,6 @@
       "parentItemName": "斜めスイカ"
     },
     {
-      "name": "リオチャンス高確率突入",
-      "categoryTag": "通常時",
-      "diffFlag": "big",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.002395,
-      "prob2": 0.002429,
-      "prob3": 0.002464,
-      "prob4": 0.002854,
-      "prob5": 0.002977,
-      "prob6": 0.003204,
-      "displayMode": "denominator",
-      "sortOrder": 3
-    },
-    {
       "name": "ダイス 2ゾロ目矛盾",
       "categoryTag": "ダイスチェック",
       "diffFlag": "none",
