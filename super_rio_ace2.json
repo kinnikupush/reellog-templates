@@ -207,7 +207,7 @@
       "parentItemName": "サイン確認回数"
     },
     {
-      "name": "246枚",
+      "name": "246枚OVER",
       "categoryTag": "獲得枚数",
       "diffFlag": "none",
       "countKind": "count",
@@ -223,7 +223,7 @@
       "sortOrder": 30
     },
     {
-      "name": "456枚",
+      "name": "456枚OVER",
       "categoryTag": "獲得枚数",
       "diffFlag": "none",
       "countKind": "count",
@@ -239,7 +239,7 @@
       "sortOrder": 31
     },
     {
-      "name": "803枚",
+      "name": "803枚OVER",
       "categoryTag": "獲得枚数",
       "diffFlag": "none",
       "countKind": "count",
@@ -255,7 +255,7 @@
       "sortOrder": 32
     },
     {
-      "name": "666枚",
+      "name": "666枚OVER",
       "categoryTag": "獲得枚数",
       "diffFlag": "none",
       "countKind": "count",
