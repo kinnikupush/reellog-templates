@@ -222,36 +222,6 @@
       "sortOrder": 404
     },
     {
-      "name": "オーリン",
-      "categoryTag": "ボーナス中トランプ",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.22,
-      "prob2": 0.2,
-      "prob3": 0.2,
-      "prob4": 0.16,
-      "prob5": 0.14,
-      "prob6": 0.12,
-      "displayMode": "percent",
-      "sortOrder": 500
-    },
-    {
-      "name": "クラーク",
-      "categoryTag": "ボーナス中トランプ",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.22,
-      "prob2": 0.2,
-      "prob3": 0.2,
-      "prob4": 0.16,
-      "prob5": 0.14,
-      "prob6": 0.12,
-      "displayMode": "percent",
-      "sortOrder": 501
-    },
-    {
       "name": "ティファニー",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "small",
