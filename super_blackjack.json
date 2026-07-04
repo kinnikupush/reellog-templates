@@ -318,21 +318,6 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "ティファニー",
-      "categoryTag": "ボーナス終了カード",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.45,
-      "prob2": 0.42,
-      "prob3": 0.4,
-      "prob4": 0.34,
-      "prob5": 0.3,
-      "prob6": 0.25,
-      "displayMode": "percent",
-      "sortOrder": 600
-    },
-    {
       "name": "イルエル",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "small",
@@ -443,21 +428,6 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 607
-    },
-    {
-      "name": "ティファニー",
-      "categoryTag": "エピソード/エンディング",
-      "diffFlag": "none",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.5,
-      "prob2": 0.46,
-      "prob3": 0.44,
-      "prob4": 0.38,
-      "prob5": 0.34,
-      "prob6": 0.28,
-      "displayMode": "percent",
-      "sortOrder": 700
     },
     {
       "name": "イルエル",
