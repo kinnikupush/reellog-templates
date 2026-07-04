@@ -379,6 +379,22 @@
       "displayMode": "percent",
       "sortOrder": 23,
       "parentItemName": "サイン確認回数"
+    },
+    {
+      "name": "全員集合",
+      "categoryTag": "アイキャッチ",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "confirmKind": "4以上",
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
+      "displayMode": "denominator",
+      "sortOrder": 46
     }
   ]
 }
