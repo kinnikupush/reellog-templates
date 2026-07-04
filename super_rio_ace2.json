@@ -168,8 +168,9 @@
       "prob5": 0.18,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 22,
-      "suggestBadgeLabel": "奇数設定示唆"
+      "sortOrder": 24,
+      "suggestBadgeLabel": "奇数設定示唆",
+      "parentItemName": "サイン確認回数"
     },
     {
       "name": "ミント",
@@ -184,8 +185,9 @@
       "prob5": 0.13,
       "prob6": 0.2,
       "displayMode": "percent",
-      "sortOrder": 23,
-      "suggestBadgeLabel": "偶数設定示唆"
+      "sortOrder": 25,
+      "suggestBadgeLabel": "偶数設定示唆",
+      "parentItemName": "サイン確認回数"
     },
     {
       "name": "リナ",
@@ -193,15 +195,16 @@
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
-      "prob1": 0.1,
-      "prob2": 0.12,
-      "prob3": 0.15,
-      "prob4": 0.17,
-      "prob5": 0.21,
-      "prob6": 0.23,
+      "prob1": 0.01,
+      "prob2": 0.02,
+      "prob3": 0.03,
+      "prob4": 0.04,
+      "prob5": 0.045,
+      "prob6": 0.05,
       "displayMode": "percent",
-      "sortOrder": 24,
-      "suggestBadgeLabel": "高設定示唆（強）"
+      "sortOrder": 26,
+      "suggestBadgeLabel": "高設定示唆（強）",
+      "parentItemName": "サイン確認回数"
     },
     {
       "name": "246枚",
@@ -345,6 +348,37 @@
       "prob6": 0.001,
       "displayMode": "denominator",
       "sortOrder": 2
+    },
+    {
+      "name": "サイン確認回数",
+      "categoryTag": "終了画面サイン",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 22
+    },
+    {
+      "name": "サインなし",
+      "categoryTag": "終了画面サイン",
+      "diffFlag": "none",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.55,
+      "prob2": 0.53,
+      "prob3": 0.52,
+      "prob4": 0.5,
+      "prob5": 0.48,
+      "prob6": 0.45,
+      "displayMode": "percent",
+      "sortOrder": 23,
+      "parentItemName": "サイン確認回数"
     }
   ]
 }
