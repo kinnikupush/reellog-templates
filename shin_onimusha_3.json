@@ -30,38 +30,6 @@
       "sortOrder": 0
     },
     {
-      "name": "弱チェ/弱スイカ→チャージ",
-      "categoryTag": "鬼斬チャージ",
-      "diffFlag": "medium",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.012,
-      "prob2": 0.016,
-      "prob3": 0.02,
-      "prob4": 0.023,
-      "prob5": 0.027,
-      "prob6": 0.031,
-      "displayMode": "percent",
-      "sortOrder": 1,
-      "parentItemName": "弱チェ/弱スイカ回数"
-    },
-    {
-      "name": "弱チャンス目→チャージ",
-      "categoryTag": "鬼斬チャージ",
-      "diffFlag": "small",
-      "countKind": "suggest",
-      "reverseMode": false,
-      "prob1": 0.301,
-      "prob2": 0.309,
-      "prob3": 0.32,
-      "prob4": 0.371,
-      "prob5": 0.375,
-      "prob6": 0.379,
-      "displayMode": "percent",
-      "sortOrder": 3,
-      "parentItemName": "弱チャンス目回数"
-    },
-    {
       "name": "+4G",
       "categoryTag": "特殊上乗せ",
       "diffFlag": "none",
@@ -716,36 +684,6 @@
       "displayMode": "denominator",
       "sortOrder": 91,
       "confirmKind": "6"
-    },
-    {
-      "name": "弱チェ/弱スイカ回数",
-      "categoryTag": "鬼斬チャージ",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 0
-    },
-    {
-      "name": "弱チャンス目回数",
-      "categoryTag": "鬼斬チャージ",
-      "diffFlag": "none",
-      "countKind": "count",
-      "reverseMode": false,
-      "prob1": 0.001,
-      "prob2": 0.001,
-      "prob3": 0.001,
-      "prob4": 0.001,
-      "prob5": 0.001,
-      "prob6": 0.001,
-      "displayMode": "denominator",
-      "sortOrder": 2
     }
   ]
 }
