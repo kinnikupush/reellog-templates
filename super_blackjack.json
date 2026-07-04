@@ -666,7 +666,7 @@
       "sortOrder": 805
     },
     {
-      "name": "チャンス目回数",
+      "name": "チャンス目",
       "categoryTag": "ボーナス直撃",
       "diffFlag": "none",
       "countKind": "count",
@@ -694,7 +694,7 @@
       "prob6": 0.078,
       "displayMode": "percent",
       "sortOrder": 201,
-      "parentItemName": "チャンス目回数"
+      "parentItemName": "チャンス目"
     }
   ]
 }
