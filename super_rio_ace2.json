@@ -15,7 +15,7 @@
   },
   "items": [
     {
-      "name": "ボーナス/AT",
+      "name": "ボーナス/AT初当たり",
       "categoryTag": "AT",
       "diffFlag": "big",
       "countKind": "count",
