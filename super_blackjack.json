@@ -32,7 +32,7 @@
     },
     {
       "name": "斜めスイカ",
-      "categoryTag": "小役",
+      "categoryTag": "ST直撃",
       "diffFlag": "medium",
       "countKind": "count",
       "reverseMode": false,
@@ -43,11 +43,11 @@
       "prob5": 0.011765,
       "prob6": 0.011919,
       "displayMode": "denominator",
-      "sortOrder": 1
+      "sortOrder": 100
     },
     {
       "name": "斜めスイカからST直撃",
-      "categoryTag": "小役",
+      "categoryTag": "ST直撃",
       "diffFlag": "big",
       "countKind": "suggest",
       "reverseMode": false,
@@ -58,7 +58,7 @@
       "prob5": 0.014,
       "prob6": 0.016,
       "displayMode": "percent",
-      "sortOrder": 2,
+      "sortOrder": 101,
       "parentItemName": "斜めスイカ"
     },
     {
@@ -75,7 +75,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 10
+      "sortOrder": 300
     },
     {
       "name": "ダイス 3ゾロ目矛盾",
@@ -91,7 +91,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 11
+      "sortOrder": 301
     },
     {
       "name": "ダイス 4ゾロ目矛盾",
@@ -107,7 +107,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 12
+      "sortOrder": 302
     },
     {
       "name": "ダイス 5ゾロ目矛盾",
@@ -123,7 +123,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 13
+      "sortOrder": 303
     },
     {
       "name": "ダイス 6ゾロ目矛盾",
@@ -139,7 +139,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 14
+      "sortOrder": 304
     },
     {
       "name": "銅",
@@ -155,7 +155,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 20
+      "sortOrder": 400
     },
     {
       "name": "銀",
@@ -171,7 +171,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 21
+      "sortOrder": 401
     },
     {
       "name": "金",
@@ -187,7 +187,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 22
+      "sortOrder": 402
     },
     {
       "name": "ケロット柄",
@@ -203,7 +203,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 23
+      "sortOrder": 403
     },
     {
       "name": "虹",
@@ -219,7 +219,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 24
+      "sortOrder": 404
     },
     {
       "name": "トランプ オーリン",
@@ -234,7 +234,7 @@
       "prob5": 0.14,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 31
+      "sortOrder": 500
     },
     {
       "name": "トランプ クラーク",
@@ -249,7 +249,7 @@
       "prob5": 0.14,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 32
+      "sortOrder": 501
     },
     {
       "name": "トランプ ティファニー",
@@ -264,7 +264,7 @@
       "prob5": 0.1,
       "prob6": 0.13,
       "displayMode": "percent",
-      "sortOrder": 33,
+      "sortOrder": 502,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -280,7 +280,7 @@
       "prob5": 0.1,
       "prob6": 0.13,
       "displayMode": "percent",
-      "sortOrder": 34,
+      "sortOrder": 503,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -296,7 +296,7 @@
       "prob5": 0.12,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 35,
+      "sortOrder": 504,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -312,7 +312,7 @@
       "prob5": 0.12,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 36,
+      "sortOrder": 505,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -328,7 +328,7 @@
       "prob5": 0.1,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 37,
+      "sortOrder": 506,
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
@@ -344,7 +344,7 @@
       "prob5": 0.1,
       "prob6": 0.14,
       "displayMode": "percent",
-      "sortOrder": 38,
+      "sortOrder": 507,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -360,7 +360,7 @@
       "prob5": 0.3,
       "prob6": 0.25,
       "displayMode": "percent",
-      "sortOrder": 41
+      "sortOrder": 600
     },
     {
       "name": "終了カード イルエル",
@@ -375,7 +375,7 @@
       "prob5": 0.13,
       "prob6": 0.14,
       "displayMode": "percent",
-      "sortOrder": 42,
+      "sortOrder": 601,
       "suggestBadgeLabel": "設定2以上示唆"
     },
     {
@@ -391,7 +391,7 @@
       "prob5": 0.1,
       "prob6": 0.13,
       "displayMode": "percent",
-      "sortOrder": 43,
+      "sortOrder": 602,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -407,7 +407,7 @@
       "prob5": 0.13,
       "prob6": 0.13,
       "displayMode": "percent",
-      "sortOrder": 44,
+      "sortOrder": 603,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -423,7 +423,7 @@
       "prob5": 0.13,
       "prob6": 0.15,
       "displayMode": "percent",
-      "sortOrder": 45,
+      "sortOrder": 604,
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
@@ -439,7 +439,7 @@
       "prob5": 0.12,
       "prob6": 0.16,
       "displayMode": "percent",
-      "sortOrder": 46,
+      "sortOrder": 605,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -456,7 +456,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 47
+      "sortOrder": 606
     },
     {
       "name": "終了カード リオ&リナ&ミント",
@@ -472,7 +472,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 48
+      "sortOrder": 607
     },
     {
       "name": "エピED ティファニー",
@@ -487,7 +487,7 @@
       "prob5": 0.34,
       "prob6": 0.28,
       "displayMode": "percent",
-      "sortOrder": 51
+      "sortOrder": 700
     },
     {
       "name": "エピED イルエル",
@@ -502,7 +502,7 @@
       "prob5": 0.15,
       "prob6": 0.16,
       "displayMode": "percent",
-      "sortOrder": 52,
+      "sortOrder": 701,
       "suggestBadgeLabel": "設定2以上示唆"
     },
     {
@@ -518,7 +518,7 @@
       "prob5": 0.12,
       "prob6": 0.15,
       "displayMode": "percent",
-      "sortOrder": 53,
+      "sortOrder": 702,
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
@@ -534,7 +534,7 @@
       "prob5": 0.13,
       "prob6": 0.13,
       "displayMode": "percent",
-      "sortOrder": 54,
+      "sortOrder": 703,
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
@@ -550,7 +550,7 @@
       "prob5": 0.14,
       "prob6": 0.16,
       "displayMode": "percent",
-      "sortOrder": 55,
+      "sortOrder": 704,
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
@@ -566,7 +566,7 @@
       "prob5": 0.12,
       "prob6": 0.16,
       "displayMode": "percent",
-      "sortOrder": 56,
+      "sortOrder": 705,
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
@@ -583,7 +583,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 60
+      "sortOrder": 800
     },
     {
       "name": "違和感 第1停止で下パネル消灯",
@@ -599,7 +599,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 61
+      "sortOrder": 801
     },
     {
       "name": "違和感 第2停止で下パネル消灯",
@@ -615,7 +615,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 62
+      "sortOrder": 802
     },
     {
       "name": "違和感 第3停止で下パネル消灯",
@@ -631,7 +631,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 63
+      "sortOrder": 803
     },
     {
       "name": "違和感 リナランプ点灯",
@@ -647,7 +647,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 64
+      "sortOrder": 804
     },
     {
       "name": "違和感 下パネル点滅から変化なし",
@@ -663,11 +663,11 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 65
+      "sortOrder": 805
     },
     {
       "name": "チャンス目回数",
-      "categoryTag": "チャンス目",
+      "categoryTag": "ボーナス直撃",
       "diffFlag": "none",
       "countKind": "count",
       "reverseMode": false,
@@ -678,11 +678,11 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 66
+      "sortOrder": 200
     },
     {
       "name": "チャンス目→ボーナス直撃",
-      "categoryTag": "チャンス目",
+      "categoryTag": "ボーナス直撃",
       "diffFlag": "medium",
       "countKind": "suggest",
       "reverseMode": false,
@@ -693,7 +693,7 @@
       "prob5": 0.076,
       "prob6": 0.078,
       "displayMode": "percent",
-      "sortOrder": 67,
+      "sortOrder": 201,
       "parentItemName": "チャンス目回数"
     }
   ]
