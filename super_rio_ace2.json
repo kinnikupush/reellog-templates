@@ -60,7 +60,7 @@
       "sortOrder": 2
     },
     {
-      "name": "規定リプレイ回数のハワードゲーム当選率",
+      "name": "規定リプレイ回数到達時ハワードゲーム当選",
       "categoryTag": "通常時",
       "diffFlag": "medium",
       "countKind": "suggest",
