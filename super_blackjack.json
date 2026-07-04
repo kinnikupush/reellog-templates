@@ -62,7 +62,7 @@
       "parentItemName": "斜めスイカ"
     },
     {
-      "name": "ダイス 2ゾロ目矛盾",
+      "name": "2ゾロ目矛盾",
       "categoryTag": "ダイスチェック",
       "diffFlag": "none",
       "countKind": "count",
@@ -78,7 +78,7 @@
       "sortOrder": 300
     },
     {
-      "name": "ダイス 3ゾロ目矛盾",
+      "name": "3ゾロ目矛盾",
       "categoryTag": "ダイスチェック",
       "diffFlag": "none",
       "countKind": "count",
@@ -94,7 +94,7 @@
       "sortOrder": 301
     },
     {
-      "name": "ダイス 4ゾロ目矛盾",
+      "name": "4ゾロ目矛盾",
       "categoryTag": "ダイスチェック",
       "diffFlag": "none",
       "countKind": "count",
@@ -110,7 +110,7 @@
       "sortOrder": 302
     },
     {
-      "name": "ダイス 5ゾロ目矛盾",
+      "name": "5ゾロ目矛盾",
       "categoryTag": "ダイスチェック",
       "diffFlag": "none",
       "countKind": "count",
@@ -126,7 +126,7 @@
       "sortOrder": 303
     },
     {
-      "name": "ダイス 6ゾロ目矛盾",
+      "name": "6ゾロ目矛盾",
       "categoryTag": "ダイスチェック",
       "diffFlag": "none",
       "countKind": "count",
@@ -222,7 +222,7 @@
       "sortOrder": 404
     },
     {
-      "name": "トランプ オーリン",
+      "name": "オーリン",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "none",
       "countKind": "suggest",
@@ -237,7 +237,7 @@
       "sortOrder": 500
     },
     {
-      "name": "トランプ クラーク",
+      "name": "クラーク",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "none",
       "countKind": "suggest",
@@ -252,7 +252,7 @@
       "sortOrder": 501
     },
     {
-      "name": "トランプ ティファニー",
+      "name": "ティファニー",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -268,7 +268,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "トランプ ローザ",
+      "name": "ローザ",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -284,7 +284,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "トランプ ハワード",
+      "name": "ハワード",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -300,7 +300,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "トランプ ミント",
+      "name": "ミント",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -316,7 +316,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "トランプ リオ",
+      "name": "リオ",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -332,7 +332,7 @@
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
-      "name": "トランプ リナ",
+      "name": "リナ",
       "categoryTag": "ボーナス中トランプ",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -348,7 +348,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "終了カード ティファニー",
+      "name": "ティファニー",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "none",
       "countKind": "suggest",
@@ -363,7 +363,7 @@
       "sortOrder": 600
     },
     {
-      "name": "終了カード イルエル",
+      "name": "イルエル",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -379,7 +379,7 @@
       "suggestBadgeLabel": "設定2以上示唆"
     },
     {
-      "name": "終了カード ローザ",
+      "name": "ローザ",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -395,7 +395,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "終了カード ミント",
+      "name": "ミント",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -411,7 +411,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "終了カード リオ",
+      "name": "リオ",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -427,7 +427,7 @@
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
-      "name": "終了カード リナ",
+      "name": "リナ",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -443,7 +443,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "終了カード リオ&リナ(ジョーカー)",
+      "name": "リオ&リナ(ジョーカー)",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "none",
       "countKind": "count",
@@ -459,7 +459,7 @@
       "sortOrder": 606
     },
     {
-      "name": "終了カード リオ&リナ&ミント",
+      "name": "リオ&リナ&ミント",
       "categoryTag": "ボーナス終了カード",
       "diffFlag": "none",
       "countKind": "count",
@@ -475,7 +475,7 @@
       "sortOrder": 607
     },
     {
-      "name": "エピED ティファニー",
+      "name": "ティファニー",
       "categoryTag": "エピソード/エンディング",
       "diffFlag": "none",
       "countKind": "suggest",
@@ -490,7 +490,7 @@
       "sortOrder": 700
     },
     {
-      "name": "エピED イルエル",
+      "name": "イルエル",
       "categoryTag": "エピソード/エンディング",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -506,7 +506,7 @@
       "suggestBadgeLabel": "設定2以上示唆"
     },
     {
-      "name": "エピED ローザ",
+      "name": "ローザ",
       "categoryTag": "エピソード/エンディング",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -522,7 +522,7 @@
       "suggestBadgeLabel": "偶数設定示唆"
     },
     {
-      "name": "エピED ミント",
+      "name": "ミント",
       "categoryTag": "エピソード/エンディング",
       "diffFlag": "small",
       "countKind": "suggest",
@@ -538,7 +538,7 @@
       "suggestBadgeLabel": "高設定示唆（弱）"
     },
     {
-      "name": "エピED リオ",
+      "name": "リオ",
       "categoryTag": "エピソード/エンディング",
       "diffFlag": "medium",
       "countKind": "suggest",
@@ -554,7 +554,7 @@
       "suggestBadgeLabel": "高設定示唆（中）"
     },
     {
-      "name": "エピED リナ",
+      "name": "リナ",
       "categoryTag": "エピソード/エンディング",
       "diffFlag": "big",
       "countKind": "suggest",
@@ -570,7 +570,7 @@
       "suggestBadgeLabel": "高設定示唆（強）"
     },
     {
-      "name": "違和感 レバーON下パネル点滅",
+      "name": "レバーON下パネル点滅",
       "categoryTag": "ハワイステージ",
       "diffFlag": "none",
       "countKind": "count",
@@ -586,7 +586,7 @@
       "sortOrder": 800
     },
     {
-      "name": "違和感 第1停止で下パネル消灯",
+      "name": "第1停止で下パネル消灯",
       "categoryTag": "ハワイステージ",
       "diffFlag": "none",
       "countKind": "count",
@@ -602,7 +602,7 @@
       "sortOrder": 801
     },
     {
-      "name": "違和感 第2停止で下パネル消灯",
+      "name": "第2停止で下パネル消灯",
       "categoryTag": "ハワイステージ",
       "diffFlag": "none",
       "countKind": "count",
@@ -618,7 +618,7 @@
       "sortOrder": 802
     },
     {
-      "name": "違和感 第3停止で下パネル消灯",
+      "name": "第3停止で下パネル消灯",
       "categoryTag": "ハワイステージ",
       "diffFlag": "none",
       "countKind": "count",
@@ -634,7 +634,7 @@
       "sortOrder": 803
     },
     {
-      "name": "違和感 リナランプ点灯",
+      "name": "リナランプ点灯",
       "categoryTag": "ハワイステージ",
       "diffFlag": "none",
       "countKind": "count",
@@ -650,7 +650,7 @@
       "sortOrder": 804
     },
     {
-      "name": "違和感 下パネル点滅から変化なし",
+      "name": "下パネル点滅から変化なし",
       "categoryTag": "ハワイステージ",
       "diffFlag": "none",
       "countKind": "count",
