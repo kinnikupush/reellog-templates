@@ -679,6 +679,37 @@
       "prob6": 0.00001,
       "displayMode": "denominator",
       "sortOrder": 65
+    },
+    {
+      "name": "チャンス目回数",
+      "categoryTag": "チャンス目",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.001,
+      "prob2": 0.001,
+      "prob3": 0.001,
+      "prob4": 0.001,
+      "prob5": 0.001,
+      "prob6": 0.001,
+      "displayMode": "denominator",
+      "sortOrder": 66
+    },
+    {
+      "name": "チャンス目→ボーナス直撃",
+      "categoryTag": "チャンス目",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.05,
+      "prob2": 0.051,
+      "prob3": 0.052,
+      "prob4": 0.069,
+      "prob5": 0.076,
+      "prob6": 0.078,
+      "displayMode": "percent",
+      "sortOrder": 67,
+      "parentItemName": "チャンス目回数"
     }
   ]
 }
