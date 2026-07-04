@@ -57,7 +57,7 @@
       "prob5": 0.008397,
       "prob6": 0.008606,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 100
     },
     {
       "name": "規定リプレイ回数到達時ハワードゲーム当選",
@@ -72,7 +72,7 @@
       "prob5": 0.277,
       "prob6": 0.301,
       "displayMode": "percent",
-      "sortOrder": 3,
+      "sortOrder": 102,
       "parentItemName": "リプレイ50回到達回数"
     },
     {
@@ -89,7 +89,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 10
+      "sortOrder": 200
     },
     {
       "name": "銀",
@@ -105,7 +105,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 11
+      "sortOrder": 201
     },
     {
       "name": "金",
@@ -121,7 +121,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 12
+      "sortOrder": 202
     },
     {
       "name": "ケロット柄",
@@ -137,7 +137,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 13
+      "sortOrder": 203
     },
     {
       "name": "虹",
@@ -153,7 +153,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 14
+      "sortOrder": 204
     },
     {
       "name": "リオ",
@@ -168,7 +168,7 @@
       "prob5": 0.18,
       "prob6": 0.12,
       "displayMode": "percent",
-      "sortOrder": 24,
+      "sortOrder": 302,
       "suggestBadgeLabel": "奇数設定示唆",
       "parentItemName": "サイン確認回数"
     },
@@ -185,7 +185,7 @@
       "prob5": 0.13,
       "prob6": 0.2,
       "displayMode": "percent",
-      "sortOrder": 25,
+      "sortOrder": 303,
       "suggestBadgeLabel": "偶数設定示唆",
       "parentItemName": "サイン確認回数"
     },
@@ -202,7 +202,7 @@
       "prob5": 0.045,
       "prob6": 0.05,
       "displayMode": "percent",
-      "sortOrder": 26,
+      "sortOrder": 304,
       "suggestBadgeLabel": "高設定示唆（強）",
       "parentItemName": "サイン確認回数"
     },
@@ -220,7 +220,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 30
+      "sortOrder": 400
     },
     {
       "name": "456枚OVER",
@@ -236,7 +236,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 31
+      "sortOrder": 401
     },
     {
       "name": "803枚OVER",
@@ -252,7 +252,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 32
+      "sortOrder": 402
     },
     {
       "name": "666枚OVER",
@@ -268,7 +268,7 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 33
+      "sortOrder": 403
     },
     {
       "name": "リプレイ50回到達回数",
@@ -283,7 +283,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 2
+      "sortOrder": 101
     },
     {
       "name": "サイン確認回数",
@@ -298,7 +298,7 @@
       "prob5": 0.001,
       "prob6": 0.001,
       "displayMode": "denominator",
-      "sortOrder": 22
+      "sortOrder": 300
     },
     {
       "name": "サインなし",
@@ -313,7 +313,7 @@
       "prob5": 0.48,
       "prob6": 0.45,
       "displayMode": "percent",
-      "sortOrder": 23,
+      "sortOrder": 301,
       "parentItemName": "サイン確認回数"
     },
     {
@@ -330,7 +330,71 @@
       "prob5": 0.00001,
       "prob6": 0.00001,
       "displayMode": "denominator",
-      "sortOrder": 46
+      "sortOrder": 600
+    },
+    {
+      "name": "黄",
+      "categoryTag": "エンディングPUSH",
+      "diffFlag": "small",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.18,
+      "prob2": 0.2,
+      "prob3": 0.22,
+      "prob4": 0.24,
+      "prob5": 0.25,
+      "prob6": 0.26,
+      "displayMode": "percent",
+      "sortOrder": 500,
+      "suggestBadgeLabel": "高設定示唆（弱）"
+    },
+    {
+      "name": "緑",
+      "categoryTag": "エンディングPUSH",
+      "diffFlag": "medium",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.08,
+      "prob2": 0.1,
+      "prob3": 0.13,
+      "prob4": 0.17,
+      "prob5": 0.2,
+      "prob6": 0.23,
+      "displayMode": "percent",
+      "sortOrder": 501,
+      "suggestBadgeLabel": "高設定示唆（中）"
+    },
+    {
+      "name": "赤",
+      "categoryTag": "エンディングPUSH",
+      "diffFlag": "big",
+      "countKind": "suggest",
+      "reverseMode": false,
+      "prob1": 0.04,
+      "prob2": 0.04,
+      "prob3": 0.05,
+      "prob4": 0.07,
+      "prob5": 0.1,
+      "prob6": 0.13,
+      "displayMode": "percent",
+      "sortOrder": 502,
+      "suggestBadgeLabel": "高設定示唆（強）"
+    },
+    {
+      "name": "虹",
+      "categoryTag": "エンディングPUSH",
+      "diffFlag": "none",
+      "countKind": "count",
+      "reverseMode": false,
+      "prob1": 0.00001,
+      "prob2": 0.00001,
+      "prob3": 0.00001,
+      "prob4": 0.00001,
+      "prob5": 0.00001,
+      "prob6": 0.00001,
+      "displayMode": "denominator",
+      "sortOrder": 503,
+      "confirmKind": "4以上"
     }
   ]
 }
