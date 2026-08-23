@@ -45,7 +45,7 @@
    "reverseMode": false
   },
   {
-   "name": "その他演目 到達回数",
+   "name": "その他演目 突入回数",
    "categoryTag": "クライマックスストーリー",
    "diffFlag": "none",
    "countKind": "count",
@@ -71,7 +71,7 @@
    "prob5": 0.225,
    "prob6": 0.255,
    "displayMode": "percent",
-   "parentItemName": "その他演目 到達回数",
+   "parentItemName": "その他演目 突入回数",
    "sortOrder": 3,
    "reverseMode": false
   },
