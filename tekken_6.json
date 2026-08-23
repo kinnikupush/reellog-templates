@@ -45,6 +45,21 @@
    "sortOrder": 1
   },
   {
+   "name": "AT終了 回数",
+   "categoryTag": "AT",
+   "diffFlag": "none",
+   "countKind": "count",
+   "prob1": 0.001,
+   "prob2": 0.001,
+   "prob3": 0.001,
+   "prob4": 0.001,
+   "prob5": 0.001,
+   "prob6": 0.001,
+   "displayMode": "denominator",
+   "sortOrder": 2,
+   "reverseMode": false
+  },
+  {
    "name": "引き戻しモード移行",
    "categoryTag": "AT",
    "diffFlag": "small",
@@ -57,7 +72,8 @@
    "prob5": 0.164,
    "prob6": 0.172,
    "displayMode": "percent",
-   "sortOrder": 2
+   "sortOrder": 3,
+   "parentItemName": "AT終了 回数"
   },
   {
    "name": "CZ",
@@ -72,7 +88,7 @@
    "prob5": 0.002183,
    "prob6": 0.002209,
    "displayMode": "denominator",
-   "sortOrder": 3
+   "sortOrder": 4
   },
   {
    "name": "ボーナス",
@@ -87,7 +103,7 @@
    "prob5": 0.004539,
    "prob6": 0.004577,
    "displayMode": "denominator",
-   "sortOrder": 4
+   "sortOrder": 5
   },
   {
    "name": "弱レア役(弱チェ/スイカ/チャンス目) 回数",
@@ -101,7 +117,7 @@
    "prob5": 0.001,
    "prob6": 0.001,
    "displayMode": "denominator",
-   "sortOrder": 5,
+   "sortOrder": 6,
    "reverseMode": false
   },
   {
@@ -117,7 +133,7 @@
    "prob5": 0.016,
    "prob6": 0.016,
    "displayMode": "percent",
-   "sortOrder": 6,
+   "sortOrder": 7,
    "parentItemName": "弱レア役(弱チェ/スイカ/チャンス目) 回数"
   },
   {
@@ -132,7 +148,7 @@
    "prob5": 0.001,
    "prob6": 0.001,
    "displayMode": "denominator",
-   "sortOrder": 7,
+   "sortOrder": 8,
    "reverseMode": false
   },
   {
@@ -148,7 +164,7 @@
    "prob5": 0.18,
    "prob6": 0.18,
    "displayMode": "percent",
-   "sortOrder": 8,
+   "sortOrder": 9,
    "parentItemName": "強チェリー 回数"
   },
   {
@@ -164,7 +180,7 @@
    "prob5": 0.105,
    "prob6": 0.13,
    "displayMode": "percent",
-   "sortOrder": 9
+   "sortOrder": 10
   },
   {
    "name": "鉄拳チャンス(赤)",
@@ -179,7 +195,7 @@
    "prob6": 0.13,
    "displayMode": "percent",
    "suggestBadgeLabel": "高設定示唆",
-   "sortOrder": 10,
+   "sortOrder": 11,
    "reverseMode": false
   },
   {
@@ -195,7 +211,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 11,
+   "sortOrder": 12,
    "confirmKind": "4以上"
   },
   {
@@ -212,7 +228,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 12
+   "sortOrder": 13
   },
   {
    "name": "一美 (赤背景)",
@@ -228,7 +244,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 13
+   "sortOrder": 14
   },
   {
    "name": "銅",
@@ -243,7 +259,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 14,
+   "sortOrder": 15,
    "confirmKind": "2以上"
   },
   {
@@ -259,7 +275,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 15,
+   "sortOrder": 16,
    "confirmKind": "3以上"
   },
   {
@@ -275,7 +291,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 16,
+   "sortOrder": 17,
    "confirmKind": "4以上"
   },
   {
@@ -291,7 +307,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 17,
+   "sortOrder": 18,
    "confirmKind": "5以上"
   },
   {
@@ -307,7 +323,7 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
-   "sortOrder": 18,
+   "sortOrder": 19,
    "confirmKind": "6"
   }
  ]
