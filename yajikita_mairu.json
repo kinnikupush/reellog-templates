@@ -92,6 +92,21 @@
    "reverseMode": false
   },
   {
+   "name": "本前兆発生 回数",
+   "categoryTag": "温泉前兆",
+   "diffFlag": "none",
+   "countKind": "count",
+   "prob1": 0.001,
+   "prob2": 0.001,
+   "prob3": 0.001,
+   "prob4": 0.001,
+   "prob5": 0.001,
+   "prob6": 0.001,
+   "displayMode": "denominator",
+   "sortOrder": 4,
+   "reverseMode": false
+  },
+  {
    "name": "黄コメント＋7",
    "categoryTag": "コメント色・加算値",
    "diffFlag": "none",
@@ -104,6 +119,22 @@
    "prob5": 1e-05,
    "prob6": 1e-05,
    "displayMode": "denominator",
+   "sortOrder": 5,
+   "reverseMode": false
+  },
+  {
+   "name": "本前兆時の温泉前兆移行",
+   "categoryTag": "温泉前兆",
+   "diffFlag": "medium",
+   "countKind": "suggest",
+   "prob1": 0.047,
+   "prob2": 0.047,
+   "prob3": 0.047,
+   "prob4": 0.07,
+   "prob5": 0.07,
+   "prob6": 0.117,
+   "displayMode": "percent",
+   "parentItemName": "本前兆発生 回数",
    "sortOrder": 5,
    "reverseMode": false
   },

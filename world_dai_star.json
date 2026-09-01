@@ -314,6 +314,38 @@
    "displayMode": "denominator",
    "sortOrder": 18,
    "reverseMode": false
+  },
+  {
+   "name": "ここな「思い込みは真実よりも甘美なるもの」（青）",
+   "categoryTag": "最上位ST中ボーナス レア役",
+   "diffFlag": "medium",
+   "countKind": "suggest",
+   "prob1": 0.03,
+   "prob2": 0.04,
+   "prob3": 0.05,
+   "prob4": 0.07,
+   "prob5": 0.09,
+   "prob6": 0.11,
+   "displayMode": "percent",
+   "suggestBadgeLabel": "高設定示唆（弱）",
+   "sortOrder": 28,
+   "reverseMode": false
+  },
+  {
+   "name": "ここな「この世は舞台、人は皆役者だ」（赤）",
+   "categoryTag": "最上位ST中ボーナス レア役",
+   "diffFlag": "medium",
+   "countKind": "suggest",
+   "prob1": 0.01,
+   "prob2": 0.02,
+   "prob3": 0.03,
+   "prob4": 0.05,
+   "prob5": 0.08,
+   "prob6": 0.12,
+   "displayMode": "percent",
+   "suggestBadgeLabel": "高設定示唆（強）",
+   "sortOrder": 29,
+   "reverseMode": false
   }
  ]
 }
