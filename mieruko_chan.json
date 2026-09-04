@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "kind": "slotapp_counter_template",
+ "counter": {
+  "name": "L見える子ちゃん",
+  "rate1": 97.8,
+  "rate2": 98.8,
+  "rate3": 101.3,
+  "rate4": 105.1,
+  "rate5": 110.2,
+  "rate6": 114.9,
+  "gamesPerHour": 800,
+  "betPerGame": 3,
+  "availableSettings": "1,2,3,4,5,6"
+ },
+ "items": [
+  {
+   "name": "BB",
+   "categoryTag": "ボーナス",
+   "diffFlag": "medium",
+   "countKind": "count",
+   "prob1": 0.00375234521575985,
+   "prob2": 0.0038182512409316535,
+   "prob3": 0.003946329913180742,
+   "prob4": 0.004113533525298231,
+   "prob5": 0.004269854824935952,
+   "prob6": 0.004403346543372964,
+   "displayMode": "denominator",
+   "sortOrder": 0,
+   "reverseMode": false
+  },
+  {
+   "name": "RB",
+   "categoryTag": "ボーナス",
+   "diffFlag": "medium",
+   "countKind": "count",
+   "prob1": 0.003635041802980734,
+   "prob2": 0.0036954915003695487,
+   "prob3": 0.0038299502106472613,
+   "prob4": 0.004,
+   "prob5": 0.004159733777038269,
+   "prob6": 0.004280821917808219,
+   "displayMode": "denominator",
+   "sortOrder": 1,
+   "reverseMode": false
+  }
+ ]
+}
