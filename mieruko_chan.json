@@ -43,6 +43,54 @@
    "displayMode": "denominator",
    "sortOrder": 1,
    "reverseMode": false
+  },
+  {
+   "name": "456枚OVER",
+   "categoryTag": "獲得枚数",
+   "diffFlag": "none",
+   "countKind": "count",
+   "confirmKind": "4以上",
+   "prob1": 1e-05,
+   "prob2": 1e-05,
+   "prob3": 1e-05,
+   "prob4": 1e-05,
+   "prob5": 1e-05,
+   "prob6": 1e-05,
+   "displayMode": "denominator",
+   "sortOrder": 20,
+   "reverseMode": false
+  },
+  {
+   "name": "555枚OVER",
+   "categoryTag": "獲得枚数",
+   "diffFlag": "none",
+   "countKind": "count",
+   "confirmKind": "5以上",
+   "prob1": 1e-05,
+   "prob2": 1e-05,
+   "prob3": 1e-05,
+   "prob4": 1e-05,
+   "prob5": 1e-05,
+   "prob6": 1e-05,
+   "displayMode": "denominator",
+   "sortOrder": 21,
+   "reverseMode": false
+  },
+  {
+   "name": "666枚OVER",
+   "categoryTag": "獲得枚数",
+   "diffFlag": "none",
+   "countKind": "count",
+   "confirmKind": "6",
+   "prob1": 1e-05,
+   "prob2": 1e-05,
+   "prob3": 1e-05,
+   "prob4": 1e-05,
+   "prob5": 1e-05,
+   "prob6": 1e-05,
+   "displayMode": "denominator",
+   "sortOrder": 22,
+   "reverseMode": false
   }
  ]
 }
