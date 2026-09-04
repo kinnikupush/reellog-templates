@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "kind": "slotapp_counter_template",
+ "counter": {
+  "name": "Lモグモグ風林火山 大海戦の巻",
+  "rate1": 97.5,
+  "rate2": 98.8,
+  "rate3": 100.3,
+  "rate4": 103.7,
+  "rate5": 107.3,
+  "rate6": 111.5,
+  "gamesPerHour": 800,
+  "betPerGame": 3,
+  "availableSettings": "1,2,3,4,5,6"
+ },
+ "items": [
+  {
+   "name": "AT",
+   "categoryTag": "AT",
+   "diffFlag": "small",
+   "countKind": "count",
+   "prob1": 0.002320185614849188,
+   "prob2": 0.0024154589371980675,
+   "prob3": 0.002506265664160401,
+   "prob4": 0.0026455026455026454,
+   "prob5": 0.0027472527472527475,
+   "prob6": 0.002793296089385475,
+   "displayMode": "denominator",
+   "sortOrder": 0,
+   "reverseMode": false
+  },
+  {
+   "name": "CZ",
+   "categoryTag": "CZ",
+   "diffFlag": "small",
+   "countKind": "count",
+   "prob1": 0.0030864197530864196,
+   "prob2": 0.0031545741324921135,
+   "prob3": 0.0032258064516129032,
+   "prob4": 0.0033444816053511705,
+   "prob5": 0.003424657534246575,
+   "prob6": 0.003484320557491289,
+   "displayMode": "denominator",
+   "sortOrder": 10,
+   "reverseMode": false
+  }
+ ]
+}
